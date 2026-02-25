@@ -1,0 +1,2001 @@
+entity_id,entity_type,reason,listed_date
+50.128.76.246,ip,Known botnet activity,2025-09-06
+125.176.49.205,ip,Suspicious login pattern,2025-10-13
+dev_245564,device,Known botnet activity,2025-12-17
+dev_292192,device,Chargeback abuse,2025-10-03
+dev_223998,device,Known botnet activity,2025-10-13
+174.64.188.82,ip,Suspicious login pattern,2025-12-24
+dev_105986,device,Suspicious login pattern,2025-10-11
+acc_274044,account,Previous fraud attempt,2025-11-13
+201.164.192.20,ip,Suspicious login pattern,2025-10-26
+205.203.9.241,ip,Previous fraud attempt,2025-11-16
+93.86.160.230,ip,Known botnet activity,2025-12-22
+acc_408241,account,Previous fraud attempt,2025-11-20
+dev_430041,device,Previous fraud attempt,2025-10-07
+acc_907616,account,Chargeback abuse,2025-11-03
+dev_166267,device,Chargeback abuse,2025-10-06
+acc_856539,account,Previous fraud attempt,2025-09-08
+dev_26802,device,Known botnet activity,2025-09-16
+acc_283319,account,Known botnet activity,2025-10-27
+acc_79848,account,Known botnet activity,2025-12-23
+dev_676024,device,Chargeback abuse,2025-10-11
+acc_325203,account,Previous fraud attempt,2025-10-16
+acc_582317,account,Suspicious login pattern,2025-12-26
+acc_925541,account,Known botnet activity,2025-12-09
+dev_389179,device,Previous fraud attempt,2025-11-25
+23.52.188.161,ip,Known botnet activity,2025-10-05
+dev_491390,device,Known botnet activity,2025-10-14
+acc_80823,account,Previous fraud attempt,2025-11-24
+acc_46686,account,Suspicious login pattern,2025-12-13
+dev_156606,device,Previous fraud attempt,2025-11-17
+dev_607005,device,Known botnet activity,2025-12-12
+acc_819685,account,Previous fraud attempt,2025-11-03
+46.212.33.128,ip,Previous fraud attempt,2025-09-30
+dev_18220,device,Previous fraud attempt,2025-10-26
+175.209.68.248,ip,Known botnet activity,2025-09-09
+acc_995944,account,Suspicious login pattern,2025-09-03
+150.44.75.17,ip,Suspicious login pattern,2025-11-17
+148.42.200.36,ip,Known botnet activity,2025-08-29
+dev_820235,device,Previous fraud attempt,2025-11-30
+dev_898557,device,Previous fraud attempt,2025-09-02
+acc_904712,account,Chargeback abuse,2025-12-03
+30.48.160.27,ip,Suspicious login pattern,2025-09-24
+dev_677946,device,Chargeback abuse,2025-12-08
+220.116.236.251,ip,Suspicious login pattern,2025-10-30
+acc_257002,account,Previous fraud attempt,2025-10-03
+32.110.150.199,ip,Previous fraud attempt,2025-12-25
+dev_179112,device,Suspicious login pattern,2025-10-09
+acc_570325,account,Chargeback abuse,2025-12-26
+acc_998660,account,Suspicious login pattern,2025-12-07
+acc_445084,account,Suspicious login pattern,2025-11-06
+dev_171588,device,Suspicious login pattern,2025-10-31
+dev_644961,device,Suspicious login pattern,2025-11-12
+acc_888158,account,Suspicious login pattern,2025-09-12
+222.34.230.252,ip,Previous fraud attempt,2025-09-03
+33.60.140.190,ip,Suspicious login pattern,2025-12-14
+196.190.17.58,ip,Previous fraud attempt,2025-10-14
+dev_661542,device,Chargeback abuse,2025-11-07
+dev_323249,device,Chargeback abuse,2025-10-26
+83.160.143.162,ip,Known botnet activity,2025-09-14
+acc_523684,account,Chargeback abuse,2025-09-02
+dev_232402,device,Suspicious login pattern,2025-12-15
+dev_678642,device,Suspicious login pattern,2025-11-14
+dev_953748,device,Chargeback abuse,2025-09-14
+133.237.177.107,ip,Chargeback abuse,2025-10-03
+dev_765442,device,Previous fraud attempt,2025-11-06
+acc_70237,account,Known botnet activity,2025-11-03
+acc_723167,account,Previous fraud attempt,2025-09-28
+dev_170106,device,Known botnet activity,2025-09-03
+106.79.23.115,ip,Suspicious login pattern,2025-10-07
+137.189.166.121,ip,Previous fraud attempt,2025-10-02
+dev_479032,device,Known botnet activity,2025-12-12
+dev_283201,device,Known botnet activity,2025-09-02
+dev_529374,device,Previous fraud attempt,2025-12-18
+acc_729892,account,Chargeback abuse,2025-12-08
+dev_601625,device,Chargeback abuse,2025-09-05
+dev_425656,device,Known botnet activity,2025-10-05
+dev_780494,device,Suspicious login pattern,2025-10-18
+dev_629223,device,Previous fraud attempt,2025-09-23
+acc_840869,account,Suspicious login pattern,2025-11-16
+83.14.89.190,ip,Chargeback abuse,2025-11-28
+acc_177004,account,Previous fraud attempt,2025-09-28
+dev_313552,device,Previous fraud attempt,2025-10-28
+dev_531960,device,Chargeback abuse,2025-12-17
+dev_150872,device,Known botnet activity,2025-11-27
+94.157.111.61,ip,Previous fraud attempt,2025-10-21
+acc_897654,account,Suspicious login pattern,2025-09-27
+14.5.86.154,ip,Chargeback abuse,2025-11-28
+acc_620837,account,Known botnet activity,2025-12-09
+199.55.186.237,ip,Previous fraud attempt,2025-11-04
+acc_955122,account,Chargeback abuse,2025-11-08
+148.193.134.195,ip,Known botnet activity,2025-09-12
+223.89.250.65,ip,Chargeback abuse,2025-11-14
+221.214.212.172,ip,Suspicious login pattern,2025-10-19
+dev_989711,device,Known botnet activity,2025-12-23
+acc_408014,account,Chargeback abuse,2025-11-26
+69.94.67.135,ip,Known botnet activity,2025-10-25
+153.42.77.218,ip,Chargeback abuse,2025-12-01
+acc_225379,account,Known botnet activity,2025-11-19
+dev_868090,device,Suspicious login pattern,2025-09-09
+75.113.94.241,ip,Previous fraud attempt,2025-12-01
+dev_833225,device,Previous fraud attempt,2025-10-14
+dev_706086,device,Known botnet activity,2025-10-18
+dev_92620,device,Previous fraud attempt,2025-09-17
+dev_758473,device,Previous fraud attempt,2025-10-28
+dev_181821,device,Known botnet activity,2025-11-14
+dev_874731,device,Known botnet activity,2025-12-26
+11.94.90.149,ip,Chargeback abuse,2025-10-11
+dev_736530,device,Suspicious login pattern,2025-09-26
+dev_31713,device,Suspicious login pattern,2025-09-16
+48.151.164.143,ip,Chargeback abuse,2025-12-03
+dev_172090,device,Known botnet activity,2025-10-01
+acc_152999,account,Chargeback abuse,2025-09-20
+220.252.223.186,ip,Previous fraud attempt,2025-10-27
+acc_205350,account,Previous fraud attempt,2025-10-18
+acc_680831,account,Known botnet activity,2025-10-26
+45.4.142.87,ip,Chargeback abuse,2025-12-04
+dev_721082,device,Known botnet activity,2025-10-30
+dev_506672,device,Known botnet activity,2025-12-16
+dev_931552,device,Chargeback abuse,2025-10-12
+204.82.181.36,ip,Chargeback abuse,2025-09-15
+dev_352655,device,Chargeback abuse,2025-11-15
+192.248.135.159,ip,Chargeback abuse,2025-11-15
+acc_452241,account,Known botnet activity,2025-12-06
+65.123.158.103,ip,Chargeback abuse,2025-12-26
+105.191.223.245,ip,Suspicious login pattern,2025-09-06
+dev_374013,device,Chargeback abuse,2025-11-05
+dev_291682,device,Chargeback abuse,2025-10-26
+acc_336311,account,Known botnet activity,2025-10-24
+dev_265716,device,Previous fraud attempt,2025-09-14
+acc_132633,account,Suspicious login pattern,2025-09-01
+175.142.144.96,ip,Previous fraud attempt,2025-09-12
+acc_366877,account,Suspicious login pattern,2025-11-04
+167.79.79.222,ip,Known botnet activity,2025-09-05
+69.8.246.171,ip,Suspicious login pattern,2025-08-29
+17.220.9.243,ip,Previous fraud attempt,2025-12-11
+dev_317437,device,Known botnet activity,2025-10-30
+dev_469212,device,Previous fraud attempt,2025-11-27
+dev_216163,device,Previous fraud attempt,2025-12-08
+acc_474572,account,Suspicious login pattern,2025-11-02
+dev_473819,device,Previous fraud attempt,2025-10-01
+220.136.183.189,ip,Suspicious login pattern,2025-09-08
+dev_690367,device,Previous fraud attempt,2025-11-14
+acc_605283,account,Previous fraud attempt,2025-09-24
+acc_542139,account,Chargeback abuse,2025-10-09
+75.145.200.74,ip,Known botnet activity,2025-10-07
+118.165.39.54,ip,Chargeback abuse,2025-11-18
+dev_24698,device,Previous fraud attempt,2025-09-20
+dev_488466,device,Suspicious login pattern,2025-10-10
+acc_684781,account,Known botnet activity,2025-12-19
+acc_94286,account,Chargeback abuse,2025-11-27
+dev_600664,device,Known botnet activity,2025-09-15
+159.255.177.254,ip,Chargeback abuse,2025-12-26
+dev_766941,device,Known botnet activity,2025-11-10
+acc_620193,account,Suspicious login pattern,2025-11-06
+dev_26401,device,Known botnet activity,2025-10-11
+35.124.109.168,ip,Known botnet activity,2025-12-10
+dev_125810,device,Chargeback abuse,2025-10-27
+46.5.115.117,ip,Previous fraud attempt,2025-11-20
+175.62.198.201,ip,Chargeback abuse,2025-09-16
+dev_721788,device,Suspicious login pattern,2025-10-23
+223.60.235.179,ip,Previous fraud attempt,2025-09-16
+dev_455424,device,Suspicious login pattern,2025-10-05
+20.102.96.174,ip,Suspicious login pattern,2025-12-14
+132.44.174.251,ip,Known botnet activity,2025-12-13
+acc_556802,account,Previous fraud attempt,2025-12-26
+dev_224295,device,Suspicious login pattern,2025-09-17
+dev_769335,device,Previous fraud attempt,2025-09-05
+155.95.181.79,ip,Suspicious login pattern,2025-10-20
+acc_799830,account,Suspicious login pattern,2025-12-20
+acc_611771,account,Previous fraud attempt,2025-11-25
+acc_508431,account,Chargeback abuse,2025-11-01
+116.98.200.67,ip,Chargeback abuse,2025-12-13
+acc_610539,account,Chargeback abuse,2025-08-31
+acc_321243,account,Previous fraud attempt,2025-12-08
+acc_1153,account,Known botnet activity,2025-11-02
+acc_110878,account,Suspicious login pattern,2025-12-24
+dev_127646,device,Known botnet activity,2025-12-24
+acc_783136,account,Chargeback abuse,2025-11-15
+dev_915635,device,Suspicious login pattern,2025-12-15
+38.126.105.53,ip,Previous fraud attempt,2025-10-15
+acc_597720,account,Chargeback abuse,2025-12-16
+acc_832231,account,Suspicious login pattern,2025-12-26
+26.53.130.251,ip,Previous fraud attempt,2025-10-06
+dev_782851,device,Previous fraud attempt,2025-11-19
+dev_915950,device,Known botnet activity,2025-10-30
+acc_318227,account,Suspicious login pattern,2025-12-01
+12.209.200.158,ip,Chargeback abuse,2025-12-02
+acc_216339,account,Previous fraud attempt,2025-09-04
+acc_587134,account,Known botnet activity,2025-10-14
+dev_675654,device,Suspicious login pattern,2025-09-20
+acc_405534,account,Chargeback abuse,2025-12-16
+131.54.189.69,ip,Chargeback abuse,2025-10-02
+dev_450795,device,Chargeback abuse,2025-09-16
+dev_152433,device,Known botnet activity,2025-10-22
+dev_504220,device,Known botnet activity,2025-10-07
+131.20.208.31,ip,Known botnet activity,2025-11-07
+acc_363507,account,Chargeback abuse,2025-10-12
+acc_605537,account,Previous fraud attempt,2025-11-05
+dev_512303,device,Chargeback abuse,2025-11-09
+100.29.112.83,ip,Suspicious login pattern,2025-08-30
+acc_934872,account,Suspicious login pattern,2025-11-29
+acc_490747,account,Known botnet activity,2025-09-02
+dev_67161,device,Chargeback abuse,2025-12-09
+acc_272983,account,Known botnet activity,2025-10-05
+acc_483880,account,Previous fraud attempt,2025-11-09
+acc_540068,account,Suspicious login pattern,2025-09-02
+acc_680900,account,Known botnet activity,2025-12-24
+acc_144764,account,Previous fraud attempt,2025-09-20
+6.122.87.119,ip,Suspicious login pattern,2025-10-23
+dev_740065,device,Previous fraud attempt,2025-10-12
+132.43.77.132,ip,Suspicious login pattern,2025-09-10
+78.56.14.34,ip,Suspicious login pattern,2025-11-16
+acc_680040,account,Known botnet activity,2025-11-17
+acc_413286,account,Known botnet activity,2025-10-01
+acc_161528,account,Previous fraud attempt,2025-11-12
+53.13.50.6,ip,Chargeback abuse,2025-11-17
+35.80.212.110,ip,Previous fraud attempt,2025-10-26
+dev_944324,device,Chargeback abuse,2025-11-02
+acc_803082,account,Suspicious login pattern,2025-10-22
+dev_305856,device,Known botnet activity,2025-09-27
+59.191.103.11,ip,Known botnet activity,2025-09-30
+acc_972617,account,Known botnet activity,2025-10-09
+dev_251456,device,Suspicious login pattern,2025-12-10
+dev_155136,device,Suspicious login pattern,2025-09-07
+acc_894695,account,Chargeback abuse,2025-12-13
+dev_181556,device,Known botnet activity,2025-11-06
+126.91.9.188,ip,Known botnet activity,2025-09-04
+dev_357429,device,Suspicious login pattern,2025-10-14
+acc_184122,account,Suspicious login pattern,2025-09-04
+197.35.151.20,ip,Chargeback abuse,2025-09-18
+dev_727457,device,Chargeback abuse,2025-09-09
+acc_711475,account,Known botnet activity,2025-12-23
+61.89.190.21,ip,Known botnet activity,2025-10-04
+94.157.93.98,ip,Chargeback abuse,2025-10-25
+dev_970479,device,Previous fraud attempt,2025-09-23
+dev_837706,device,Suspicious login pattern,2025-12-02
+17.151.141.141,ip,Suspicious login pattern,2025-12-07
+acc_782908,account,Known botnet activity,2025-12-20
+dev_561985,device,Suspicious login pattern,2025-12-08
+77.40.21.58,ip,Chargeback abuse,2025-11-06
+dev_640175,device,Chargeback abuse,2025-10-23
+dev_152534,device,Chargeback abuse,2025-12-15
+dev_341778,device,Known botnet activity,2025-10-09
+acc_628585,account,Previous fraud attempt,2025-11-19
+dev_995568,device,Previous fraud attempt,2025-11-18
+129.209.154.219,ip,Known botnet activity,2025-10-29
+163.41.251.184,ip,Previous fraud attempt,2025-09-25
+dev_59253,device,Suspicious login pattern,2025-10-21
+dev_140295,device,Suspicious login pattern,2025-12-10
+131.98.223.219,ip,Chargeback abuse,2025-12-06
+acc_938629,account,Previous fraud attempt,2025-12-23
+dev_45376,device,Known botnet activity,2025-12-19
+acc_257672,account,Suspicious login pattern,2025-10-08
+acc_99885,account,Previous fraud attempt,2025-09-21
+dev_745870,device,Chargeback abuse,2025-12-22
+acc_142324,account,Chargeback abuse,2025-09-05
+acc_856988,account,Known botnet activity,2025-10-07
+dev_351944,device,Previous fraud attempt,2025-10-03
+205.233.105.56,ip,Known botnet activity,2025-11-06
+dev_385515,device,Previous fraud attempt,2025-11-29
+dev_703873,device,Suspicious login pattern,2025-11-21
+92.189.229.53,ip,Previous fraud attempt,2025-12-09
+acc_961867,account,Suspicious login pattern,2025-11-21
+acc_409448,account,Suspicious login pattern,2025-10-18
+dev_108394,device,Previous fraud attempt,2025-09-07
+185.238.132.243,ip,Previous fraud attempt,2025-10-05
+acc_412322,account,Known botnet activity,2025-11-11
+acc_398373,account,Previous fraud attempt,2025-09-09
+dev_379871,device,Known botnet activity,2025-10-04
+176.71.103.26,ip,Suspicious login pattern,2025-10-04
+21.164.122.143,ip,Suspicious login pattern,2025-11-16
+dev_109794,device,Suspicious login pattern,2025-12-19
+acc_579838,account,Chargeback abuse,2025-12-10
+85.139.139.245,ip,Known botnet activity,2025-09-01
+acc_113812,account,Previous fraud attempt,2025-12-10
+11.76.122.159,ip,Suspicious login pattern,2025-09-11
+158.13.142.72,ip,Suspicious login pattern,2025-11-09
+dev_467154,device,Suspicious login pattern,2025-09-23
+dev_813715,device,Chargeback abuse,2025-10-10
+dev_221982,device,Known botnet activity,2025-12-04
+acc_725920,account,Known botnet activity,2025-09-19
+66.162.121.155,ip,Chargeback abuse,2025-11-17
+dev_137905,device,Suspicious login pattern,2025-09-14
+173.15.27.182,ip,Previous fraud attempt,2025-10-17
+dev_775996,device,Known botnet activity,2025-11-29
+114.53.90.129,ip,Known botnet activity,2025-11-28
+acc_488308,account,Known botnet activity,2025-09-04
+102.155.29.62,ip,Known botnet activity,2025-09-11
+36.149.98.11,ip,Known botnet activity,2025-11-27
+110.5.143.59,ip,Known botnet activity,2025-10-14
+acc_446700,account,Previous fraud attempt,2025-12-06
+dev_991737,device,Chargeback abuse,2025-11-30
+dev_87966,device,Previous fraud attempt,2025-12-06
+124.156.232.3,ip,Suspicious login pattern,2025-12-07
+27.198.166.108,ip,Known botnet activity,2025-12-18
+acc_35040,account,Known botnet activity,2025-10-25
+acc_808726,account,Known botnet activity,2025-11-25
+48.107.108.145,ip,Chargeback abuse,2025-11-19
+acc_304568,account,Chargeback abuse,2025-09-07
+26.175.176.35,ip,Known botnet activity,2025-10-10
+acc_460613,account,Known botnet activity,2025-09-09
+acc_42109,account,Suspicious login pattern,2025-09-16
+20.196.3.44,ip,Known botnet activity,2025-12-01
+175.63.101.99,ip,Previous fraud attempt,2025-11-23
+150.104.11.45,ip,Suspicious login pattern,2025-09-10
+178.110.112.50,ip,Suspicious login pattern,2025-10-24
+acc_43513,account,Suspicious login pattern,2025-09-21
+acc_414455,account,Suspicious login pattern,2025-11-11
+dev_679777,device,Suspicious login pattern,2025-10-04
+79.169.1.165,ip,Suspicious login pattern,2025-12-13
+acc_999900,account,Suspicious login pattern,2025-10-10
+dev_800673,device,Known botnet activity,2025-10-30
+11.67.10.189,ip,Suspicious login pattern,2025-10-21
+63.165.42.76,ip,Suspicious login pattern,2025-10-28
+103.15.122.46,ip,Previous fraud attempt,2025-10-03
+dev_913231,device,Chargeback abuse,2025-11-07
+acc_685512,account,Previous fraud attempt,2025-11-16
+215.132.159.230,ip,Known botnet activity,2025-12-03
+209.26.34.60,ip,Suspicious login pattern,2025-08-31
+acc_335291,account,Known botnet activity,2025-09-13
+acc_970762,account,Previous fraud attempt,2025-10-19
+51.57.163.39,ip,Previous fraud attempt,2025-10-09
+65.4.241.71,ip,Chargeback abuse,2025-10-14
+183.51.66.186,ip,Known botnet activity,2025-12-15
+acc_299100,account,Known botnet activity,2025-09-03
+dev_176762,device,Suspicious login pattern,2025-11-15
+dev_187143,device,Chargeback abuse,2025-12-08
+acc_72493,account,Known botnet activity,2025-11-27
+dev_522043,device,Suspicious login pattern,2025-10-27
+dev_670540,device,Suspicious login pattern,2025-08-31
+acc_904994,account,Suspicious login pattern,2025-12-19
+acc_987102,account,Chargeback abuse,2025-08-29
+acc_432880,account,Chargeback abuse,2025-11-27
+99.150.84.32,ip,Suspicious login pattern,2025-09-20
+acc_134775,account,Suspicious login pattern,2025-11-13
+164.136.173.236,ip,Suspicious login pattern,2025-12-22
+dev_149035,device,Suspicious login pattern,2025-12-21
+dev_822875,device,Previous fraud attempt,2025-10-23
+167.175.188.143,ip,Chargeback abuse,2025-10-31
+acc_103980,account,Chargeback abuse,2025-11-08
+dev_964286,device,Previous fraud attempt,2025-12-17
+190.169.63.106,ip,Suspicious login pattern,2025-11-30
+acc_377857,account,Previous fraud attempt,2025-12-19
+dev_642179,device,Previous fraud attempt,2025-11-28
+99.4.151.229,ip,Chargeback abuse,2025-09-22
+dev_494301,device,Previous fraud attempt,2025-11-17
+acc_423468,account,Chargeback abuse,2025-09-27
+acc_135925,account,Previous fraud attempt,2025-11-07
+acc_624245,account,Previous fraud attempt,2025-10-28
+123.178.164.57,ip,Previous fraud attempt,2025-12-19
+188.77.41.184,ip,Known botnet activity,2025-08-29
+acc_619601,account,Previous fraud attempt,2025-11-18
+54.230.189.88,ip,Known botnet activity,2025-10-04
+dev_338377,device,Known botnet activity,2025-09-26
+107.159.225.13,ip,Suspicious login pattern,2025-11-23
+acc_493926,account,Suspicious login pattern,2025-11-19
+dev_932705,device,Chargeback abuse,2025-11-18
+19.19.99.64,ip,Known botnet activity,2025-11-04
+174.44.255.70,ip,Previous fraud attempt,2025-12-12
+70.43.253.6,ip,Known botnet activity,2025-09-12
+149.250.191.210,ip,Known botnet activity,2025-09-25
+145.5.35.140,ip,Suspicious login pattern,2025-11-06
+214.47.109.93,ip,Suspicious login pattern,2025-11-01
+dev_493018,device,Suspicious login pattern,2025-10-27
+107.184.204.178,ip,Known botnet activity,2025-12-01
+202.9.184.245,ip,Chargeback abuse,2025-10-30
+165.42.121.116,ip,Chargeback abuse,2025-10-04
+201.134.138.175,ip,Suspicious login pattern,2025-12-23
+acc_76591,account,Known botnet activity,2025-11-09
+acc_449055,account,Chargeback abuse,2025-09-04
+acc_238673,account,Suspicious login pattern,2025-10-06
+dev_980507,device,Suspicious login pattern,2025-10-20
+dev_845600,device,Chargeback abuse,2025-09-08
+dev_149884,device,Chargeback abuse,2025-12-11
+acc_930952,account,Known botnet activity,2025-10-29
+acc_642631,account,Suspicious login pattern,2025-11-19
+dev_239363,device,Previous fraud attempt,2025-11-12
+dev_130322,device,Suspicious login pattern,2025-11-27
+dev_28933,device,Previous fraud attempt,2025-09-18
+19.79.228.191,ip,Chargeback abuse,2025-10-15
+179.19.238.228,ip,Known botnet activity,2025-12-02
+102.177.139.76,ip,Chargeback abuse,2025-11-22
+12.57.43.84,ip,Chargeback abuse,2025-11-10
+acc_902739,account,Chargeback abuse,2025-11-24
+acc_818784,account,Known botnet activity,2025-12-06
+dev_187896,device,Chargeback abuse,2025-10-31
+59.7.121.55,ip,Previous fraud attempt,2025-09-29
+dev_509243,device,Previous fraud attempt,2025-11-13
+203.218.225.176,ip,Known botnet activity,2025-11-18
+dev_732780,device,Previous fraud attempt,2025-10-19
+dev_545993,device,Previous fraud attempt,2025-08-30
+dev_14047,device,Chargeback abuse,2025-10-31
+dev_43865,device,Previous fraud attempt,2025-09-16
+132.212.87.206,ip,Suspicious login pattern,2025-12-19
+111.152.77.236,ip,Known botnet activity,2025-11-17
+146.53.85.183,ip,Known botnet activity,2025-10-19
+110.68.12.130,ip,Suspicious login pattern,2025-12-16
+dev_294586,device,Previous fraud attempt,2025-09-30
+dev_239057,device,Known botnet activity,2025-09-03
+dev_541023,device,Suspicious login pattern,2025-12-25
+dev_278515,device,Known botnet activity,2025-11-29
+dev_438709,device,Previous fraud attempt,2025-12-05
+acc_865680,account,Suspicious login pattern,2025-10-02
+acc_93858,account,Known botnet activity,2025-12-06
+acc_205137,account,Previous fraud attempt,2025-11-25
+dev_924799,device,Chargeback abuse,2025-10-15
+208.75.69.70,ip,Previous fraud attempt,2025-11-25
+dev_2431,device,Chargeback abuse,2025-10-10
+dev_443846,device,Suspicious login pattern,2025-09-19
+dev_73017,device,Suspicious login pattern,2025-12-15
+acc_7809,account,Chargeback abuse,2025-12-02
+acc_532253,account,Suspicious login pattern,2025-12-25
+acc_962855,account,Known botnet activity,2025-12-11
+acc_196029,account,Previous fraud attempt,2025-09-13
+dev_149576,device,Chargeback abuse,2025-11-07
+acc_834656,account,Suspicious login pattern,2025-10-24
+acc_779404,account,Suspicious login pattern,2025-11-07
+198.154.63.244,ip,Previous fraud attempt,2025-10-31
+acc_776368,account,Known botnet activity,2025-11-05
+141.124.167.87,ip,Known botnet activity,2025-09-04
+acc_634157,account,Previous fraud attempt,2025-10-19
+112.90.179.117,ip,Known botnet activity,2025-09-24
+146.39.143.77,ip,Previous fraud attempt,2025-11-19
+155.176.97.110,ip,Suspicious login pattern,2025-12-17
+dev_767631,device,Known botnet activity,2025-12-04
+dev_542344,device,Chargeback abuse,2025-12-22
+acc_716179,account,Known botnet activity,2025-10-23
+dev_604754,device,Suspicious login pattern,2025-10-08
+93.58.206.162,ip,Chargeback abuse,2025-09-09
+140.211.159.127,ip,Chargeback abuse,2025-09-03
+dev_1631,device,Previous fraud attempt,2025-11-18
+97.197.195.34,ip,Known botnet activity,2025-11-09
+dev_988848,device,Previous fraud attempt,2025-09-26
+214.120.69.74,ip,Suspicious login pattern,2025-10-04
+dev_923914,device,Known botnet activity,2025-09-17
+dev_691088,device,Previous fraud attempt,2025-11-01
+dev_384713,device,Known botnet activity,2025-11-20
+dev_228254,device,Known botnet activity,2025-10-23
+acc_954506,account,Known botnet activity,2025-08-29
+acc_576759,account,Chargeback abuse,2025-09-16
+dev_575804,device,Known botnet activity,2025-11-05
+54.82.199.138,ip,Previous fraud attempt,2025-09-15
+acc_16151,account,Known botnet activity,2025-09-20
+dev_853380,device,Suspicious login pattern,2025-10-15
+dev_27013,device,Chargeback abuse,2025-09-06
+acc_527557,account,Suspicious login pattern,2025-12-09
+dev_75365,device,Previous fraud attempt,2025-09-16
+dev_792193,device,Chargeback abuse,2025-09-12
+42.53.59.123,ip,Chargeback abuse,2025-10-24
+dev_72017,device,Previous fraud attempt,2025-09-09
+dev_921896,device,Known botnet activity,2025-12-03
+30.136.243.25,ip,Known botnet activity,2025-09-13
+acc_852753,account,Previous fraud attempt,2025-11-27
+219.166.44.171,ip,Previous fraud attempt,2025-10-10
+111.3.48.67,ip,Chargeback abuse,2025-09-22
+acc_688108,account,Previous fraud attempt,2025-11-11
+acc_83046,account,Chargeback abuse,2025-11-25
+dev_75617,device,Known botnet activity,2025-11-21
+acc_672449,account,Known botnet activity,2025-09-30
+dev_603984,device,Known botnet activity,2025-09-23
+123.25.131.173,ip,Chargeback abuse,2025-10-22
+168.53.194.181,ip,Chargeback abuse,2025-12-10
+128.71.120.63,ip,Suspicious login pattern,2025-09-08
+119.130.58.42,ip,Known botnet activity,2025-11-22
+acc_610740,account,Suspicious login pattern,2025-10-18
+acc_227057,account,Suspicious login pattern,2025-11-28
+dev_563984,device,Chargeback abuse,2025-12-03
+3.195.83.20,ip,Chargeback abuse,2025-11-05
+acc_672032,account,Known botnet activity,2025-10-21
+dev_737818,device,Chargeback abuse,2025-10-10
+dev_226000,device,Previous fraud attempt,2025-09-17
+acc_605327,account,Known botnet activity,2025-10-25
+dev_558470,device,Known botnet activity,2025-10-02
+dev_258693,device,Known botnet activity,2025-12-05
+25.54.183.40,ip,Known botnet activity,2025-09-15
+194.83.150.176,ip,Known botnet activity,2025-12-08
+acc_460910,account,Chargeback abuse,2025-11-15
+dev_401084,device,Known botnet activity,2025-09-19
+dev_754088,device,Previous fraud attempt,2025-12-09
+dev_847561,device,Suspicious login pattern,2025-12-11
+acc_838696,account,Chargeback abuse,2025-10-11
+136.60.234.70,ip,Known botnet activity,2025-11-30
+acc_876743,account,Previous fraud attempt,2025-11-16
+acc_511360,account,Suspicious login pattern,2025-11-05
+acc_550919,account,Chargeback abuse,2025-11-30
+dev_211505,device,Chargeback abuse,2025-09-20
+126.119.141.23,ip,Previous fraud attempt,2025-08-29
+40.133.242.137,ip,Previous fraud attempt,2025-09-06
+dev_768267,device,Chargeback abuse,2025-10-10
+dev_442413,device,Suspicious login pattern,2025-09-07
+143.251.28.237,ip,Previous fraud attempt,2025-11-23
+acc_665232,account,Previous fraud attempt,2025-09-07
+acc_408507,account,Chargeback abuse,2025-11-01
+acc_628058,account,Suspicious login pattern,2025-08-31
+acc_160563,account,Suspicious login pattern,2025-09-12
+23.177.7.71,ip,Previous fraud attempt,2025-08-31
+dev_679666,device,Suspicious login pattern,2025-12-22
+182.172.187.165,ip,Chargeback abuse,2025-12-19
+acc_88021,account,Known botnet activity,2025-10-04
+48.45.87.168,ip,Chargeback abuse,2025-11-07
+dev_495078,device,Suspicious login pattern,2025-09-19
+34.103.125.226,ip,Previous fraud attempt,2025-12-07
+50.14.254.102,ip,Chargeback abuse,2025-09-02
+acc_599581,account,Suspicious login pattern,2025-09-02
+146.15.179.136,ip,Previous fraud attempt,2025-08-30
+46.37.153.104,ip,Previous fraud attempt,2025-11-12
+acc_580321,account,Previous fraud attempt,2025-11-17
+133.125.229.115,ip,Chargeback abuse,2025-10-15
+dev_438872,device,Suspicious login pattern,2025-09-03
+acc_762992,account,Previous fraud attempt,2025-11-03
+acc_791745,account,Suspicious login pattern,2025-09-03
+dev_162683,device,Chargeback abuse,2025-11-21
+29.193.95.49,ip,Previous fraud attempt,2025-12-07
+dev_709927,device,Suspicious login pattern,2025-12-22
+42.45.106.83,ip,Suspicious login pattern,2025-12-06
+dev_153547,device,Suspicious login pattern,2025-12-02
+dev_692404,device,Suspicious login pattern,2025-12-22
+acc_72901,account,Previous fraud attempt,2025-09-30
+81.158.91.141,ip,Chargeback abuse,2025-09-02
+15.240.151.57,ip,Chargeback abuse,2025-09-13
+dev_748479,device,Chargeback abuse,2025-11-30
+acc_503640,account,Chargeback abuse,2025-09-25
+acc_987156,account,Known botnet activity,2025-12-13
+acc_797666,account,Chargeback abuse,2025-09-02
+78.170.223.172,ip,Chargeback abuse,2025-12-07
+dev_290048,device,Previous fraud attempt,2025-12-17
+acc_430972,account,Chargeback abuse,2025-11-23
+159.88.82.217,ip,Known botnet activity,2025-09-27
+acc_487409,account,Suspicious login pattern,2025-11-12
+dev_220599,device,Chargeback abuse,2025-09-26
+acc_301240,account,Suspicious login pattern,2025-11-21
+acc_948659,account,Chargeback abuse,2025-10-20
+dev_153510,device,Known botnet activity,2025-12-25
+acc_119590,account,Previous fraud attempt,2025-12-22
+116.240.123.149,ip,Suspicious login pattern,2025-10-02
+dev_114140,device,Known botnet activity,2025-12-03
+acc_38068,account,Previous fraud attempt,2025-12-04
+190.102.56.39,ip,Suspicious login pattern,2025-10-25
+dev_254566,device,Previous fraud attempt,2025-12-01
+acc_115749,account,Previous fraud attempt,2025-11-01
+dev_137955,device,Previous fraud attempt,2025-09-28
+150.36.102.151,ip,Previous fraud attempt,2025-11-04
+dev_334990,device,Chargeback abuse,2025-09-27
+74.58.0.78,ip,Previous fraud attempt,2025-10-08
+dev_675258,device,Previous fraud attempt,2025-12-22
+dev_441121,device,Chargeback abuse,2025-10-18
+dev_445165,device,Previous fraud attempt,2025-10-10
+dev_606417,device,Chargeback abuse,2025-09-07
+acc_796232,account,Known botnet activity,2025-09-18
+acc_188746,account,Known botnet activity,2025-11-27
+131.86.228.23,ip,Chargeback abuse,2025-11-01
+36.64.164.225,ip,Suspicious login pattern,2025-11-23
+71.64.8.39,ip,Suspicious login pattern,2025-09-22
+acc_822218,account,Chargeback abuse,2025-10-14
+48.162.83.98,ip,Suspicious login pattern,2025-11-15
+acc_99437,account,Chargeback abuse,2025-09-26
+dev_721374,device,Suspicious login pattern,2025-10-03
+dev_588217,device,Known botnet activity,2025-12-20
+acc_51240,account,Known botnet activity,2025-09-28
+acc_341586,account,Previous fraud attempt,2025-09-22
+27.221.125.213,ip,Chargeback abuse,2025-11-05
+acc_27706,account,Suspicious login pattern,2025-09-03
+37.218.54.47,ip,Chargeback abuse,2025-11-05
+34.216.60.158,ip,Known botnet activity,2025-12-05
+30.113.83.246,ip,Chargeback abuse,2025-09-03
+46.70.103.75,ip,Previous fraud attempt,2025-12-03
+dev_328462,device,Chargeback abuse,2025-12-03
+acc_229215,account,Chargeback abuse,2025-12-22
+55.161.6.108,ip,Known botnet activity,2025-11-11
+175.29.222.114,ip,Chargeback abuse,2025-12-08
+155.249.84.202,ip,Known botnet activity,2025-12-25
+acc_529298,account,Previous fraud attempt,2025-10-10
+6.138.236.71,ip,Chargeback abuse,2025-10-20
+dev_491321,device,Previous fraud attempt,2025-09-13
+dev_156611,device,Previous fraud attempt,2025-12-23
+dev_463288,device,Previous fraud attempt,2025-10-11
+97.100.163.150,ip,Suspicious login pattern,2025-08-30
+dev_510098,device,Known botnet activity,2025-12-19
+acc_488586,account,Known botnet activity,2025-12-02
+41.163.54.87,ip,Suspicious login pattern,2025-09-28
+dev_545360,device,Previous fraud attempt,2025-12-24
+dev_557909,device,Previous fraud attempt,2025-12-01
+acc_805810,account,Suspicious login pattern,2025-12-11
+78.2.75.191,ip,Suspicious login pattern,2025-09-27
+119.94.62.98,ip,Suspicious login pattern,2025-10-15
+219.180.52.196,ip,Previous fraud attempt,2025-10-27
+158.236.215.129,ip,Previous fraud attempt,2025-10-28
+acc_196927,account,Previous fraud attempt,2025-10-21
+8.202.244.53,ip,Known botnet activity,2025-09-08
+acc_934483,account,Known botnet activity,2025-10-26
+acc_749212,account,Previous fraud attempt,2025-12-07
+dev_530393,device,Chargeback abuse,2025-11-19
+dev_444615,device,Previous fraud attempt,2025-12-25
+52.217.220.206,ip,Chargeback abuse,2025-10-21
+dev_983418,device,Chargeback abuse,2025-11-30
+dev_127573,device,Suspicious login pattern,2025-09-27
+42.47.219.227,ip,Chargeback abuse,2025-11-14
+dev_491996,device,Chargeback abuse,2025-08-31
+67.243.48.2,ip,Suspicious login pattern,2025-09-12
+dev_937954,device,Known botnet activity,2025-12-26
+acc_856208,account,Suspicious login pattern,2025-09-12
+dev_910818,device,Chargeback abuse,2025-10-08
+dev_610363,device,Suspicious login pattern,2025-10-27
+acc_262969,account,Suspicious login pattern,2025-12-14
+acc_20661,account,Known botnet activity,2025-09-28
+51.62.109.23,ip,Chargeback abuse,2025-09-21
+113.172.45.176,ip,Suspicious login pattern,2025-10-05
+acc_317650,account,Known botnet activity,2025-12-14
+acc_400156,account,Known botnet activity,2025-11-27
+acc_850070,account,Previous fraud attempt,2025-11-06
+acc_701160,account,Known botnet activity,2025-10-27
+acc_528211,account,Suspicious login pattern,2025-10-26
+dev_15648,device,Suspicious login pattern,2025-12-15
+25.126.215.61,ip,Known botnet activity,2025-11-29
+acc_873049,account,Known botnet activity,2025-11-15
+dev_79116,device,Known botnet activity,2025-09-19
+44.74.102.204,ip,Previous fraud attempt,2025-11-03
+29.203.29.244,ip,Chargeback abuse,2025-09-02
+12.107.113.188,ip,Suspicious login pattern,2025-09-14
+75.157.148.32,ip,Previous fraud attempt,2025-09-02
+158.27.29.196,ip,Chargeback abuse,2025-10-15
+dev_14191,device,Suspicious login pattern,2025-09-23
+dev_241630,device,Known botnet activity,2025-10-22
+acc_586191,account,Previous fraud attempt,2025-11-12
+acc_401465,account,Chargeback abuse,2025-09-02
+167.133.38.17,ip,Known botnet activity,2025-09-29
+131.61.76.197,ip,Chargeback abuse,2025-12-09
+dev_849645,device,Suspicious login pattern,2025-12-03
+90.172.149.214,ip,Previous fraud attempt,2025-10-18
+223.68.201.31,ip,Known botnet activity,2025-10-18
+acc_563968,account,Suspicious login pattern,2025-09-20
+dev_7863,device,Suspicious login pattern,2025-11-24
+dev_73875,device,Previous fraud attempt,2025-10-31
+acc_36555,account,Suspicious login pattern,2025-11-16
+169.90.12.94,ip,Suspicious login pattern,2025-11-13
+9.229.227.249,ip,Known botnet activity,2025-09-02
+dev_595350,device,Known botnet activity,2025-09-03
+121.25.99.35,ip,Previous fraud attempt,2025-09-08
+acc_599367,account,Chargeback abuse,2025-10-10
+acc_645241,account,Known botnet activity,2025-10-22
+acc_889703,account,Known botnet activity,2025-09-13
+dev_574111,device,Known botnet activity,2025-09-02
+acc_219637,account,Known botnet activity,2025-12-01
+dev_286255,device,Suspicious login pattern,2025-09-05
+acc_521901,account,Suspicious login pattern,2025-10-29
+acc_42016,account,Chargeback abuse,2025-11-23
+acc_996855,account,Known botnet activity,2025-12-25
+acc_597217,account,Known botnet activity,2025-12-08
+acc_873660,account,Previous fraud attempt,2025-12-03
+dev_915425,device,Chargeback abuse,2025-12-08
+acc_657569,account,Chargeback abuse,2025-09-17
+10.127.78.211,ip,Previous fraud attempt,2025-11-18
+dev_580259,device,Suspicious login pattern,2025-11-03
+acc_422513,account,Chargeback abuse,2025-10-08
+acc_218944,account,Chargeback abuse,2025-12-12
+42.99.84.162,ip,Known botnet activity,2025-12-20
+54.209.21.64,ip,Known botnet activity,2025-11-04
+acc_800642,account,Suspicious login pattern,2025-11-07
+acc_103992,account,Previous fraud attempt,2025-09-19
+acc_525083,account,Chargeback abuse,2025-10-18
+dev_63698,device,Chargeback abuse,2025-12-15
+dev_877488,device,Suspicious login pattern,2025-10-12
+dev_730755,device,Known botnet activity,2025-10-19
+183.143.131.78,ip,Chargeback abuse,2025-10-02
+dev_687809,device,Suspicious login pattern,2025-12-17
+dev_231037,device,Suspicious login pattern,2025-09-22
+acc_57156,account,Known botnet activity,2025-12-04
+acc_386801,account,Chargeback abuse,2025-11-07
+dev_379294,device,Suspicious login pattern,2025-10-27
+acc_748165,account,Chargeback abuse,2025-11-18
+dev_391022,device,Chargeback abuse,2025-09-13
+dev_250385,device,Chargeback abuse,2025-09-09
+dev_464445,device,Known botnet activity,2025-11-05
+dev_661894,device,Suspicious login pattern,2025-09-30
+124.27.9.54,ip,Suspicious login pattern,2025-10-17
+158.122.47.27,ip,Chargeback abuse,2025-09-22
+37.39.210.50,ip,Chargeback abuse,2025-09-22
+acc_553574,account,Chargeback abuse,2025-12-26
+181.48.171.252,ip,Suspicious login pattern,2025-10-06
+dev_487491,device,Known botnet activity,2025-12-19
+acc_532480,account,Suspicious login pattern,2025-12-10
+acc_930422,account,Known botnet activity,2025-09-30
+51.228.244.28,ip,Previous fraud attempt,2025-11-04
+dev_174173,device,Known botnet activity,2025-09-10
+dev_23125,device,Previous fraud attempt,2025-12-24
+26.157.91.158,ip,Suspicious login pattern,2025-11-04
+73.226.26.135,ip,Known botnet activity,2025-10-25
+29.22.184.64,ip,Known botnet activity,2025-11-11
+101.29.124.58,ip,Known botnet activity,2025-08-31
+dev_408932,device,Suspicious login pattern,2025-12-18
+dev_413324,device,Previous fraud attempt,2025-09-30
+acc_561466,account,Suspicious login pattern,2025-10-10
+dev_318973,device,Chargeback abuse,2025-09-29
+dev_935764,device,Suspicious login pattern,2025-12-25
+129.137.2.23,ip,Previous fraud attempt,2025-09-08
+acc_43895,account,Known botnet activity,2025-11-18
+141.84.242.102,ip,Previous fraud attempt,2025-09-07
+acc_985778,account,Suspicious login pattern,2025-11-11
+acc_315164,account,Chargeback abuse,2025-11-15
+dev_910441,device,Chargeback abuse,2025-09-22
+dev_741150,device,Suspicious login pattern,2025-12-08
+180.127.122.176,ip,Chargeback abuse,2025-12-23
+93.172.91.245,ip,Chargeback abuse,2025-11-09
+acc_211572,account,Previous fraud attempt,2025-10-02
+dev_268923,device,Previous fraud attempt,2025-10-11
+83.59.169.226,ip,Suspicious login pattern,2025-11-09
+acc_28193,account,Chargeback abuse,2025-09-23
+dev_339720,device,Chargeback abuse,2025-11-03
+dev_907918,device,Suspicious login pattern,2025-09-05
+dev_738478,device,Known botnet activity,2025-08-30
+89.175.110.100,ip,Chargeback abuse,2025-12-16
+dev_51976,device,Previous fraud attempt,2025-10-13
+acc_39528,account,Previous fraud attempt,2025-12-17
+dev_443745,device,Known botnet activity,2025-09-13
+92.253.203.63,ip,Suspicious login pattern,2025-11-30
+183.203.132.169,ip,Chargeback abuse,2025-09-04
+acc_508748,account,Known botnet activity,2025-10-25
+dev_375770,device,Known botnet activity,2025-09-18
+acc_618535,account,Previous fraud attempt,2025-12-14
+68.4.48.84,ip,Previous fraud attempt,2025-11-27
+acc_103648,account,Chargeback abuse,2025-09-21
+acc_802091,account,Chargeback abuse,2025-12-11
+105.23.191.204,ip,Chargeback abuse,2025-09-20
+157.33.0.84,ip,Suspicious login pattern,2025-09-11
+acc_506194,account,Suspicious login pattern,2025-09-18
+acc_128588,account,Known botnet activity,2025-10-13
+dev_185147,device,Known botnet activity,2025-10-03
+220.41.59.243,ip,Previous fraud attempt,2025-09-13
+219.6.26.233,ip,Chargeback abuse,2025-09-29
+dev_285166,device,Chargeback abuse,2025-12-18
+acc_81676,account,Known botnet activity,2025-09-29
+acc_51275,account,Suspicious login pattern,2025-11-05
+acc_791555,account,Chargeback abuse,2025-11-09
+dev_653305,device,Known botnet activity,2025-09-27
+dev_569488,device,Suspicious login pattern,2025-10-21
+71.131.57.229,ip,Known botnet activity,2025-09-30
+52.154.208.159,ip,Suspicious login pattern,2025-10-27
+acc_916970,account,Suspicious login pattern,2025-12-24
+49.243.87.152,ip,Chargeback abuse,2025-11-13
+dev_78082,device,Known botnet activity,2025-09-20
+dev_230107,device,Chargeback abuse,2025-10-01
+dev_308627,device,Suspicious login pattern,2025-09-26
+134.119.223.218,ip,Chargeback abuse,2025-12-09
+acc_950591,account,Previous fraud attempt,2025-12-06
+acc_700066,account,Chargeback abuse,2025-10-03
+dev_73391,device,Suspicious login pattern,2025-10-06
+dev_590826,device,Previous fraud attempt,2025-11-20
+acc_870606,account,Chargeback abuse,2025-11-09
+dev_218880,device,Previous fraud attempt,2025-12-08
+acc_402387,account,Known botnet activity,2025-10-15
+dev_994977,device,Chargeback abuse,2025-11-19
+acc_675044,account,Known botnet activity,2025-10-25
+acc_112844,account,Chargeback abuse,2025-10-02
+acc_454543,account,Previous fraud attempt,2025-10-22
+dev_976267,device,Known botnet activity,2025-11-21
+34.218.38.96,ip,Previous fraud attempt,2025-09-05
+dev_981631,device,Known botnet activity,2025-10-08
+dev_30186,device,Previous fraud attempt,2025-09-02
+acc_48451,account,Known botnet activity,2025-10-22
+acc_608911,account,Previous fraud attempt,2025-11-25
+dev_532175,device,Suspicious login pattern,2025-10-27
+88.134.228.241,ip,Suspicious login pattern,2025-09-23
+acc_633217,account,Suspicious login pattern,2025-11-28
+acc_15223,account,Chargeback abuse,2025-09-04
+acc_777128,account,Chargeback abuse,2025-08-29
+201.111.111.125,ip,Chargeback abuse,2025-11-16
+acc_434409,account,Suspicious login pattern,2025-11-25
+acc_927715,account,Chargeback abuse,2025-12-12
+acc_100120,account,Known botnet activity,2025-11-23
+dev_642844,device,Suspicious login pattern,2025-10-22
+dev_486397,device,Previous fraud attempt,2025-09-12
+174.218.72.9,ip,Previous fraud attempt,2025-10-13
+acc_798420,account,Suspicious login pattern,2025-11-18
+dev_43047,device,Previous fraud attempt,2025-11-04
+45.42.128.213,ip,Previous fraud attempt,2025-09-05
+acc_398563,account,Chargeback abuse,2025-10-31
+dev_882874,device,Chargeback abuse,2025-09-25
+dev_44153,device,Suspicious login pattern,2025-11-10
+31.54.77.229,ip,Known botnet activity,2025-09-29
+dev_305010,device,Suspicious login pattern,2025-10-10
+51.91.208.94,ip,Previous fraud attempt,2025-12-06
+dev_702277,device,Previous fraud attempt,2025-09-03
+acc_57895,account,Chargeback abuse,2025-11-02
+acc_312068,account,Known botnet activity,2025-12-18
+183.165.244.167,ip,Suspicious login pattern,2025-09-26
+acc_73201,account,Previous fraud attempt,2025-11-07
+dev_280924,device,Previous fraud attempt,2025-10-01
+16.162.10.179,ip,Suspicious login pattern,2025-11-09
+dev_624900,device,Chargeback abuse,2025-09-12
+dev_578772,device,Previous fraud attempt,2025-12-03
+acc_94124,account,Previous fraud attempt,2025-10-10
+173.153.11.217,ip,Previous fraud attempt,2025-08-29
+acc_912279,account,Known botnet activity,2025-10-22
+dev_317847,device,Previous fraud attempt,2025-08-29
+acc_713114,account,Known botnet activity,2025-10-05
+acc_770463,account,Known botnet activity,2025-11-05
+dev_671879,device,Chargeback abuse,2025-11-17
+8.90.50.19,ip,Chargeback abuse,2025-10-27
+dev_704800,device,Suspicious login pattern,2025-10-19
+222.217.118.217,ip,Previous fraud attempt,2025-10-07
+dev_830417,device,Suspicious login pattern,2025-11-28
+52.173.231.170,ip,Previous fraud attempt,2025-11-16
+182.52.250.37,ip,Known botnet activity,2025-09-09
+acc_147398,account,Previous fraud attempt,2025-12-13
+dev_295833,device,Known botnet activity,2025-09-01
+80.123.161.52,ip,Previous fraud attempt,2025-09-15
+acc_490938,account,Previous fraud attempt,2025-11-27
+acc_724476,account,Known botnet activity,2025-11-07
+116.15.59.54,ip,Suspicious login pattern,2025-09-18
+dev_664421,device,Chargeback abuse,2025-12-18
+acc_936771,account,Chargeback abuse,2025-10-16
+acc_446484,account,Previous fraud attempt,2025-12-20
+acc_174761,account,Chargeback abuse,2025-11-09
+dev_262939,device,Previous fraud attempt,2025-11-30
+59.186.81.17,ip,Known botnet activity,2025-11-10
+dev_734283,device,Previous fraud attempt,2025-09-26
+acc_723106,account,Known botnet activity,2025-12-15
+dev_842958,device,Chargeback abuse,2025-09-02
+acc_427415,account,Known botnet activity,2025-11-06
+acc_261111,account,Previous fraud attempt,2025-12-17
+dev_94888,device,Chargeback abuse,2025-12-01
+dev_73624,device,Suspicious login pattern,2025-12-11
+dev_204527,device,Known botnet activity,2025-11-28
+132.243.32.181,ip,Known botnet activity,2025-12-08
+dev_906421,device,Previous fraud attempt,2025-11-17
+172.124.251.190,ip,Previous fraud attempt,2025-09-10
+dev_874683,device,Chargeback abuse,2025-12-22
+56.223.223.65,ip,Known botnet activity,2025-09-10
+24.133.101.215,ip,Chargeback abuse,2025-10-08
+189.75.34.55,ip,Known botnet activity,2025-11-22
+dev_936817,device,Previous fraud attempt,2025-11-02
+acc_619790,account,Known botnet activity,2025-11-26
+151.242.188.128,ip,Suspicious login pattern,2025-10-14
+acc_298608,account,Previous fraud attempt,2025-10-25
+dev_673480,device,Known botnet activity,2025-08-30
+dev_476861,device,Previous fraud attempt,2025-10-10
+78.7.166.39,ip,Suspicious login pattern,2025-10-08
+acc_762288,account,Chargeback abuse,2025-09-22
+dev_382695,device,Suspicious login pattern,2025-10-07
+13.107.234.173,ip,Chargeback abuse,2025-11-24
+185.79.72.5,ip,Chargeback abuse,2025-09-19
+1.70.170.38,ip,Previous fraud attempt,2025-10-11
+dev_51283,device,Previous fraud attempt,2025-11-28
+dev_892470,device,Known botnet activity,2025-11-22
+194.165.112.84,ip,Chargeback abuse,2025-10-17
+dev_470196,device,Known botnet activity,2025-09-28
+dev_778050,device,Known botnet activity,2025-10-22
+acc_499481,account,Known botnet activity,2025-10-06
+dev_64936,device,Chargeback abuse,2025-11-03
+dev_38641,device,Known botnet activity,2025-12-23
+82.91.149.95,ip,Known botnet activity,2025-12-15
+199.183.9.104,ip,Previous fraud attempt,2025-10-27
+acc_848418,account,Previous fraud attempt,2025-10-19
+acc_536374,account,Chargeback abuse,2025-10-20
+24.73.118.151,ip,Previous fraud attempt,2025-11-03
+dev_115949,device,Chargeback abuse,2025-12-07
+177.149.223.232,ip,Known botnet activity,2025-10-29
+dev_274240,device,Chargeback abuse,2025-09-03
+81.138.176.165,ip,Chargeback abuse,2025-12-21
+151.38.214.233,ip,Previous fraud attempt,2025-10-04
+dev_583762,device,Previous fraud attempt,2025-12-25
+96.138.180.188,ip,Suspicious login pattern,2025-09-01
+215.151.220.71,ip,Previous fraud attempt,2025-09-14
+acc_876826,account,Previous fraud attempt,2025-11-17
+acc_485135,account,Chargeback abuse,2025-11-04
+acc_772769,account,Suspicious login pattern,2025-11-08
+202.193.145.80,ip,Chargeback abuse,2025-09-16
+acc_666001,account,Known botnet activity,2025-10-31
+dev_851743,device,Suspicious login pattern,2025-12-03
+67.148.215.53,ip,Previous fraud attempt,2025-09-06
+149.179.57.152,ip,Known botnet activity,2025-10-05
+dev_493388,device,Suspicious login pattern,2025-10-01
+acc_195327,account,Chargeback abuse,2025-10-27
+32.21.218.102,ip,Known botnet activity,2025-12-26
+dev_658777,device,Known botnet activity,2025-09-15
+acc_930710,account,Chargeback abuse,2025-11-07
+dev_430926,device,Previous fraud attempt,2025-10-19
+acc_888595,account,Chargeback abuse,2025-11-15
+dev_139166,device,Suspicious login pattern,2025-10-24
+dev_952096,device,Suspicious login pattern,2025-09-24
+acc_135215,account,Known botnet activity,2025-09-19
+acc_457971,account,Known botnet activity,2025-10-16
+acc_443000,account,Previous fraud attempt,2025-12-06
+acc_89165,account,Chargeback abuse,2025-12-18
+acc_466448,account,Chargeback abuse,2025-11-12
+dev_549227,device,Previous fraud attempt,2025-10-24
+acc_8641,account,Previous fraud attempt,2025-10-24
+dev_373230,device,Chargeback abuse,2025-11-05
+acc_737713,account,Suspicious login pattern,2025-11-17
+16.76.255.17,ip,Chargeback abuse,2025-12-11
+168.7.101.115,ip,Previous fraud attempt,2025-11-24
+acc_446075,account,Chargeback abuse,2025-11-12
+dev_366394,device,Known botnet activity,2025-10-15
+dev_330054,device,Previous fraud attempt,2025-09-29
+acc_218820,account,Chargeback abuse,2025-11-18
+acc_877560,account,Known botnet activity,2025-09-12
+75.145.97.53,ip,Previous fraud attempt,2025-12-01
+dev_297506,device,Known botnet activity,2025-10-05
+202.169.250.65,ip,Chargeback abuse,2025-11-23
+49.113.219.197,ip,Previous fraud attempt,2025-09-23
+acc_457962,account,Suspicious login pattern,2025-09-30
+dev_224023,device,Suspicious login pattern,2025-11-02
+acc_861741,account,Previous fraud attempt,2025-12-26
+dev_512285,device,Previous fraud attempt,2025-11-09
+acc_698819,account,Chargeback abuse,2025-09-15
+acc_301195,account,Known botnet activity,2025-11-10
+acc_540901,account,Suspicious login pattern,2025-12-22
+210.114.188.130,ip,Suspicious login pattern,2025-12-01
+dev_856589,device,Chargeback abuse,2025-10-05
+dev_905986,device,Previous fraud attempt,2025-10-13
+acc_231728,account,Suspicious login pattern,2025-12-24
+dev_14906,device,Known botnet activity,2025-11-03
+2.120.148.229,ip,Known botnet activity,2025-10-21
+dev_212432,device,Known botnet activity,2025-12-20
+dev_156576,device,Suspicious login pattern,2025-12-01
+196.43.255.195,ip,Previous fraud attempt,2025-12-05
+dev_483501,device,Known botnet activity,2025-10-25
+108.192.201.58,ip,Chargeback abuse,2025-11-01
+acc_387368,account,Known botnet activity,2025-12-23
+87.203.97.232,ip,Known botnet activity,2025-11-18
+acc_820064,account,Previous fraud attempt,2025-10-07
+145.132.213.4,ip,Previous fraud attempt,2025-12-13
+dev_444262,device,Chargeback abuse,2025-09-20
+16.183.43.119,ip,Previous fraud attempt,2025-08-31
+dev_399342,device,Chargeback abuse,2025-09-16
+220.52.129.118,ip,Chargeback abuse,2025-09-05
+159.91.89.228,ip,Known botnet activity,2025-10-19
+152.37.91.222,ip,Suspicious login pattern,2025-11-24
+68.12.217.179,ip,Chargeback abuse,2025-12-01
+acc_679882,account,Known botnet activity,2025-10-02
+20.146.146.249,ip,Previous fraud attempt,2025-12-07
+221.189.159.108,ip,Suspicious login pattern,2025-10-08
+72.29.174.16,ip,Chargeback abuse,2025-08-30
+acc_377828,account,Chargeback abuse,2025-12-06
+acc_986091,account,Chargeback abuse,2025-10-30
+157.1.119.44,ip,Previous fraud attempt,2025-11-03
+dev_294002,device,Suspicious login pattern,2025-09-26
+acc_871376,account,Known botnet activity,2025-10-12
+139.138.61.172,ip,Suspicious login pattern,2025-09-03
+dev_650918,device,Known botnet activity,2025-09-29
+dev_614663,device,Suspicious login pattern,2025-10-01
+87.101.9.130,ip,Chargeback abuse,2025-10-07
+207.113.28.17,ip,Previous fraud attempt,2025-09-30
+acc_549879,account,Known botnet activity,2025-11-11
+dev_31610,device,Previous fraud attempt,2025-10-17
+acc_317420,account,Known botnet activity,2025-11-14
+14.154.111.186,ip,Suspicious login pattern,2025-11-08
+acc_681361,account,Suspicious login pattern,2025-11-09
+acc_872581,account,Previous fraud attempt,2025-11-22
+acc_516299,account,Known botnet activity,2025-12-15
+16.30.24.224,ip,Known botnet activity,2025-10-06
+97.69.51.89,ip,Previous fraud attempt,2025-12-12
+acc_753831,account,Previous fraud attempt,2025-12-19
+acc_437225,account,Previous fraud attempt,2025-12-19
+acc_266351,account,Chargeback abuse,2025-09-22
+acc_659478,account,Known botnet activity,2025-08-29
+acc_209280,account,Known botnet activity,2025-12-13
+acc_276865,account,Chargeback abuse,2025-12-12
+acc_42995,account,Known botnet activity,2025-09-08
+acc_391665,account,Previous fraud attempt,2025-09-14
+dev_197685,device,Chargeback abuse,2025-11-08
+dev_289839,device,Chargeback abuse,2025-11-17
+dev_643669,device,Known botnet activity,2025-09-09
+acc_68118,account,Known botnet activity,2025-12-23
+132.191.182.246,ip,Chargeback abuse,2025-12-18
+53.0.214.62,ip,Known botnet activity,2025-10-16
+acc_336161,account,Known botnet activity,2025-12-11
+acc_562255,account,Previous fraud attempt,2025-12-06
+acc_554082,account,Chargeback abuse,2025-10-21
+dev_916472,device,Known botnet activity,2025-11-15
+acc_690965,account,Known botnet activity,2025-10-05
+acc_762187,account,Previous fraud attempt,2025-10-06
+dev_870186,device,Known botnet activity,2025-11-30
+acc_580747,account,Known botnet activity,2025-09-21
+27.71.152.240,ip,Previous fraud attempt,2025-09-03
+52.40.187.197,ip,Suspicious login pattern,2025-09-09
+acc_724552,account,Known botnet activity,2025-11-29
+acc_591299,account,Previous fraud attempt,2025-09-14
+acc_960757,account,Known botnet activity,2025-11-30
+acc_345513,account,Chargeback abuse,2025-12-11
+dev_250442,device,Chargeback abuse,2025-10-06
+172.92.54.190,ip,Previous fraud attempt,2025-11-29
+acc_771541,account,Previous fraud attempt,2025-11-22
+acc_78122,account,Previous fraud attempt,2025-10-18
+acc_221964,account,Suspicious login pattern,2025-09-24
+dev_250463,device,Previous fraud attempt,2025-12-06
+dev_800716,device,Known botnet activity,2025-11-28
+acc_495032,account,Chargeback abuse,2025-12-01
+44.61.70.41,ip,Previous fraud attempt,2025-09-30
+acc_620239,account,Chargeback abuse,2025-10-01
+152.69.63.136,ip,Previous fraud attempt,2025-12-16
+179.251.96.175,ip,Chargeback abuse,2025-10-20
+acc_407163,account,Previous fraud attempt,2025-11-19
+acc_572393,account,Suspicious login pattern,2025-09-07
+128.168.69.62,ip,Chargeback abuse,2025-12-01
+47.42.216.26,ip,Previous fraud attempt,2025-09-10
+acc_189975,account,Suspicious login pattern,2025-09-13
+dev_349711,device,Chargeback abuse,2025-09-01
+153.81.198.241,ip,Known botnet activity,2025-10-26
+109.242.240.121,ip,Suspicious login pattern,2025-10-19
+80.4.87.127,ip,Suspicious login pattern,2025-11-16
+7.20.218.248,ip,Known botnet activity,2025-12-11
+dev_625063,device,Previous fraud attempt,2025-09-24
+36.233.181.248,ip,Chargeback abuse,2025-11-22
+214.144.185.178,ip,Suspicious login pattern,2025-11-13
+acc_337712,account,Known botnet activity,2025-11-14
+dev_178569,device,Suspicious login pattern,2025-10-01
+acc_549827,account,Previous fraud attempt,2025-10-17
+acc_84635,account,Suspicious login pattern,2025-10-25
+dev_629252,device,Known botnet activity,2025-11-08
+220.58.108.75,ip,Chargeback abuse,2025-09-08
+161.207.216.243,ip,Previous fraud attempt,2025-11-24
+acc_544212,account,Previous fraud attempt,2025-10-09
+dev_952182,device,Previous fraud attempt,2025-09-14
+77.126.146.168,ip,Previous fraud attempt,2025-12-10
+7.71.203.72,ip,Chargeback abuse,2025-11-01
+acc_656728,account,Chargeback abuse,2025-09-19
+dev_553130,device,Previous fraud attempt,2025-09-01
+acc_810893,account,Suspicious login pattern,2025-12-15
+acc_753442,account,Chargeback abuse,2025-09-05
+dev_474364,device,Suspicious login pattern,2025-10-06
+55.117.129.231,ip,Known botnet activity,2025-10-19
+dev_747809,device,Previous fraud attempt,2025-09-08
+acc_455696,account,Previous fraud attempt,2025-09-21
+dev_894143,device,Chargeback abuse,2025-12-24
+dev_120784,device,Suspicious login pattern,2025-10-31
+acc_96522,account,Chargeback abuse,2025-10-22
+dev_2778,device,Previous fraud attempt,2025-09-24
+dev_123497,device,Previous fraud attempt,2025-10-09
+125.194.152.108,ip,Known botnet activity,2025-11-19
+acc_319964,account,Previous fraud attempt,2025-11-05
+129.214.26.75,ip,Suspicious login pattern,2025-09-28
+acc_18454,account,Chargeback abuse,2025-11-15
+dev_603453,device,Chargeback abuse,2025-12-20
+acc_149248,account,Known botnet activity,2025-11-03
+acc_560260,account,Chargeback abuse,2025-11-28
+acc_12868,account,Chargeback abuse,2025-08-29
+acc_137966,account,Previous fraud attempt,2025-12-13
+216.88.68.106,ip,Suspicious login pattern,2025-09-12
+43.253.218.1,ip,Known botnet activity,2025-10-29
+acc_232714,account,Suspicious login pattern,2025-10-14
+acc_938970,account,Suspicious login pattern,2025-11-27
+dev_144969,device,Previous fraud attempt,2025-10-27
+dev_695616,device,Previous fraud attempt,2025-09-06
+acc_202073,account,Suspicious login pattern,2025-11-29
+acc_860811,account,Suspicious login pattern,2025-09-14
+dev_634907,device,Suspicious login pattern,2025-09-20
+dev_49812,device,Suspicious login pattern,2025-11-07
+dev_398034,device,Previous fraud attempt,2025-09-17
+59.130.233.79,ip,Chargeback abuse,2025-12-23
+9.34.75.232,ip,Chargeback abuse,2025-10-31
+dev_47462,device,Chargeback abuse,2025-11-02
+dev_679835,device,Previous fraud attempt,2025-11-03
+acc_142813,account,Previous fraud attempt,2025-10-01
+dev_95857,device,Chargeback abuse,2025-11-28
+acc_265682,account,Previous fraud attempt,2025-12-05
+dev_11366,device,Known botnet activity,2025-10-26
+dev_567762,device,Previous fraud attempt,2025-11-28
+acc_716724,account,Known botnet activity,2025-10-27
+dev_159174,device,Previous fraud attempt,2025-12-12
+22.206.223.71,ip,Known botnet activity,2025-12-15
+acc_666244,account,Suspicious login pattern,2025-12-07
+dev_621206,device,Previous fraud attempt,2025-11-01
+202.34.199.225,ip,Previous fraud attempt,2025-12-04
+65.68.105.22,ip,Suspicious login pattern,2025-12-18
+dev_658849,device,Known botnet activity,2025-10-13
+acc_911104,account,Chargeback abuse,2025-10-18
+dev_44545,device,Previous fraud attempt,2025-10-19
+acc_758830,account,Chargeback abuse,2025-12-02
+19.28.110.240,ip,Previous fraud attempt,2025-11-18
+186.202.125.173,ip,Known botnet activity,2025-11-21
+acc_688780,account,Suspicious login pattern,2025-09-24
+dev_151225,device,Suspicious login pattern,2025-12-06
+dev_313644,device,Known botnet activity,2025-10-30
+acc_856487,account,Chargeback abuse,2025-12-01
+dev_481696,device,Previous fraud attempt,2025-12-22
+dev_513198,device,Chargeback abuse,2025-11-27
+86.88.69.65,ip,Chargeback abuse,2025-09-27
+dev_25277,device,Known botnet activity,2025-09-14
+acc_397917,account,Known botnet activity,2025-09-07
+122.23.100.135,ip,Previous fraud attempt,2025-10-10
+dev_157561,device,Suspicious login pattern,2025-09-13
+10.235.248.35,ip,Suspicious login pattern,2025-12-12
+acc_1470,account,Known botnet activity,2025-11-27
+acc_448727,account,Chargeback abuse,2025-09-10
+179.31.100.227,ip,Previous fraud attempt,2025-10-03
+150.72.191.137,ip,Suspicious login pattern,2025-12-01
+183.83.107.16,ip,Known botnet activity,2025-11-07
+138.110.26.252,ip,Previous fraud attempt,2025-12-07
+189.221.180.183,ip,Previous fraud attempt,2025-11-05
+acc_9797,account,Known botnet activity,2025-09-25
+10.170.82.24,ip,Suspicious login pattern,2025-11-12
+dev_353815,device,Chargeback abuse,2025-11-17
+acc_768682,account,Previous fraud attempt,2025-09-03
+acc_763384,account,Known botnet activity,2025-10-24
+dev_487567,device,Suspicious login pattern,2025-11-26
+218.2.91.47,ip,Chargeback abuse,2025-09-05
+dev_130123,device,Previous fraud attempt,2025-10-02
+9.71.37.168,ip,Known botnet activity,2025-10-27
+103.71.213.108,ip,Chargeback abuse,2025-11-13
+125.253.52.94,ip,Suspicious login pattern,2025-09-22
+136.152.50.152,ip,Chargeback abuse,2025-11-03
+acc_685486,account,Known botnet activity,2025-11-30
+31.104.107.0,ip,Chargeback abuse,2025-09-20
+107.72.47.8,ip,Known botnet activity,2025-11-26
+dev_311162,device,Known botnet activity,2025-10-05
+acc_590950,account,Chargeback abuse,2025-11-04
+acc_932815,account,Suspicious login pattern,2025-10-06
+acc_128115,account,Suspicious login pattern,2025-09-02
+51.18.193.236,ip,Suspicious login pattern,2025-12-13
+dev_199495,device,Suspicious login pattern,2025-09-05
+207.46.226.23,ip,Suspicious login pattern,2025-10-13
+dev_400512,device,Suspicious login pattern,2025-10-02
+120.133.38.219,ip,Chargeback abuse,2025-09-24
+199.31.180.172,ip,Known botnet activity,2025-11-01
+27.200.47.228,ip,Previous fraud attempt,2025-09-18
+190.210.115.89,ip,Previous fraud attempt,2025-12-25
+acc_994642,account,Known botnet activity,2025-09-20
+acc_819507,account,Known botnet activity,2025-11-03
+acc_645943,account,Chargeback abuse,2025-11-25
+acc_851107,account,Known botnet activity,2025-10-26
+dev_816273,device,Suspicious login pattern,2025-10-15
+2.145.180.19,ip,Known botnet activity,2025-12-20
+219.210.14.5,ip,Known botnet activity,2025-11-25
+acc_866143,account,Chargeback abuse,2025-12-02
+acc_691372,account,Previous fraud attempt,2025-11-13
+dev_244100,device,Known botnet activity,2025-10-06
+acc_356656,account,Suspicious login pattern,2025-12-02
+acc_215922,account,Previous fraud attempt,2025-09-03
+67.96.133.27,ip,Previous fraud attempt,2025-10-16
+124.65.12.91,ip,Suspicious login pattern,2025-11-20
+55.50.171.200,ip,Suspicious login pattern,2025-12-12
+dev_729651,device,Suspicious login pattern,2025-11-06
+acc_455568,account,Chargeback abuse,2025-10-07
+acc_589103,account,Previous fraud attempt,2025-11-12
+acc_606154,account,Previous fraud attempt,2025-11-16
+acc_996789,account,Suspicious login pattern,2025-12-24
+dev_169526,device,Previous fraud attempt,2025-11-30
+96.124.10.221,ip,Known botnet activity,2025-09-28
+acc_836461,account,Previous fraud attempt,2025-11-19
+160.155.166.35,ip,Known botnet activity,2025-09-17
+84.63.222.137,ip,Suspicious login pattern,2025-10-05
+dev_30470,device,Known botnet activity,2025-10-04
+acc_315802,account,Known botnet activity,2025-11-02
+194.177.114.185,ip,Previous fraud attempt,2025-12-08
+acc_125107,account,Previous fraud attempt,2025-09-01
+72.38.111.185,ip,Suspicious login pattern,2025-12-23
+dev_499756,device,Suspicious login pattern,2025-10-28
+88.246.223.13,ip,Previous fraud attempt,2025-12-26
+dev_777332,device,Known botnet activity,2025-08-31
+dev_560923,device,Known botnet activity,2025-09-15
+acc_323231,account,Chargeback abuse,2025-09-16
+acc_472427,account,Known botnet activity,2025-10-26
+81.121.222.30,ip,Suspicious login pattern,2025-09-15
+dev_478985,device,Previous fraud attempt,2025-12-02
+acc_266348,account,Suspicious login pattern,2025-09-28
+acc_986307,account,Previous fraud attempt,2025-10-18
+dev_669186,device,Previous fraud attempt,2025-09-10
+dev_142305,device,Known botnet activity,2025-09-18
+dev_503459,device,Previous fraud attempt,2025-09-03
+dev_646404,device,Known botnet activity,2025-12-09
+95.72.34.204,ip,Previous fraud attempt,2025-09-20
+dev_532367,device,Known botnet activity,2025-10-29
+153.84.68.253,ip,Previous fraud attempt,2025-09-02
+acc_621075,account,Previous fraud attempt,2025-12-13
+dev_901039,device,Chargeback abuse,2025-11-14
+dev_43417,device,Suspicious login pattern,2025-12-06
+12.177.139.23,ip,Chargeback abuse,2025-12-05
+44.251.145.52,ip,Chargeback abuse,2025-09-28
+45.98.197.160,ip,Suspicious login pattern,2025-12-11
+dev_371825,device,Known botnet activity,2025-12-18
+acc_65638,account,Known botnet activity,2025-09-12
+acc_868996,account,Known botnet activity,2025-11-26
+acc_571200,account,Previous fraud attempt,2025-10-25
+28.192.6.174,ip,Known botnet activity,2025-11-30
+acc_203676,account,Suspicious login pattern,2025-10-05
+acc_241774,account,Known botnet activity,2025-10-14
+dev_400792,device,Previous fraud attempt,2025-11-17
+acc_626404,account,Suspicious login pattern,2025-12-21
+dev_134582,device,Suspicious login pattern,2025-10-13
+dev_663539,device,Chargeback abuse,2025-12-15
+acc_92985,account,Suspicious login pattern,2025-11-12
+acc_287937,account,Known botnet activity,2025-10-01
+213.65.51.199,ip,Previous fraud attempt,2025-11-11
+acc_207806,account,Known botnet activity,2025-11-30
+dev_282611,device,Known botnet activity,2025-12-21
+dev_517666,device,Previous fraud attempt,2025-10-16
+acc_720802,account,Known botnet activity,2025-09-26
+acc_158076,account,Previous fraud attempt,2025-11-02
+acc_503229,account,Previous fraud attempt,2025-12-03
+dev_174452,device,Previous fraud attempt,2025-09-03
+dev_787938,device,Known botnet activity,2025-10-12
+159.224.122.135,ip,Previous fraud attempt,2025-12-21
+dev_693989,device,Chargeback abuse,2025-11-21
+dev_270757,device,Previous fraud attempt,2025-08-31
+acc_156714,account,Previous fraud attempt,2025-11-29
+209.45.63.88,ip,Known botnet activity,2025-11-19
+acc_890171,account,Suspicious login pattern,2025-10-26
+47.162.160.11,ip,Previous fraud attempt,2025-12-20
+140.222.38.190,ip,Previous fraud attempt,2025-10-17
+acc_23218,account,Suspicious login pattern,2025-12-23
+dev_118403,device,Chargeback abuse,2025-10-11
+217.96.84.42,ip,Known botnet activity,2025-11-19
+dev_77417,device,Previous fraud attempt,2025-10-17
+102.119.9.155,ip,Known botnet activity,2025-12-10
+acc_640156,account,Previous fraud attempt,2025-09-29
+acc_58831,account,Chargeback abuse,2025-12-16
+dev_905958,device,Chargeback abuse,2025-09-18
+dev_534815,device,Chargeback abuse,2025-09-03
+dev_840970,device,Previous fraud attempt,2025-09-19
+dev_53824,device,Chargeback abuse,2025-09-29
+dev_184397,device,Previous fraud attempt,2025-12-14
+91.87.252.59,ip,Known botnet activity,2025-09-09
+dev_122851,device,Previous fraud attempt,2025-10-04
+acc_79516,account,Previous fraud attempt,2025-11-05
+acc_286219,account,Known botnet activity,2025-12-03
+acc_501363,account,Chargeback abuse,2025-09-03
+175.180.222.12,ip,Known botnet activity,2025-12-12
+acc_807165,account,Suspicious login pattern,2025-09-20
+acc_750702,account,Chargeback abuse,2025-12-15
+95.65.36.231,ip,Chargeback abuse,2025-11-26
+dev_181116,device,Previous fraud attempt,2025-11-05
+180.143.103.57,ip,Previous fraud attempt,2025-10-15
+84.184.86.211,ip,Suspicious login pattern,2025-12-13
+199.58.182.82,ip,Chargeback abuse,2025-11-28
+acc_508223,account,Previous fraud attempt,2025-09-28
+dev_887567,device,Chargeback abuse,2025-09-09
+141.221.221.2,ip,Previous fraud attempt,2025-10-23
+acc_527856,account,Suspicious login pattern,2025-09-29
+acc_631261,account,Chargeback abuse,2025-10-22
+acc_901230,account,Chargeback abuse,2025-11-14
+78.148.55.246,ip,Chargeback abuse,2025-11-06
+dev_778089,device,Chargeback abuse,2025-09-09
+144.154.192.141,ip,Known botnet activity,2025-12-20
+107.11.132.53,ip,Previous fraud attempt,2025-09-01
+acc_844478,account,Known botnet activity,2025-09-18
+dev_935573,device,Suspicious login pattern,2025-09-24
+dev_451657,device,Known botnet activity,2025-10-20
+dev_973281,device,Chargeback abuse,2025-09-22
+78.236.251.131,ip,Suspicious login pattern,2025-10-26
+160.178.18.6,ip,Chargeback abuse,2025-12-12
+dev_670585,device,Suspicious login pattern,2025-09-14
+169.16.50.230,ip,Previous fraud attempt,2025-10-27
+acc_140802,account,Chargeback abuse,2025-11-29
+acc_33654,account,Suspicious login pattern,2025-11-17
+dev_338188,device,Suspicious login pattern,2025-09-23
+10.116.129.251,ip,Suspicious login pattern,2025-11-16
+183.114.110.230,ip,Known botnet activity,2025-10-17
+1.206.149.240,ip,Suspicious login pattern,2025-12-24
+acc_10333,account,Chargeback abuse,2025-10-22
+acc_710817,account,Chargeback abuse,2025-12-09
+acc_903656,account,Chargeback abuse,2025-09-12
+118.120.253.62,ip,Suspicious login pattern,2025-12-03
+acc_180307,account,Known botnet activity,2025-12-10
+acc_164299,account,Chargeback abuse,2025-10-22
+dev_285177,device,Suspicious login pattern,2025-11-09
+37.250.25.19,ip,Suspicious login pattern,2025-09-24
+acc_207439,account,Suspicious login pattern,2025-12-14
+acc_318866,account,Known botnet activity,2025-10-24
+dev_218021,device,Suspicious login pattern,2025-10-24
+dev_629119,device,Suspicious login pattern,2025-12-15
+dev_313069,device,Known botnet activity,2025-11-01
+173.42.70.44,ip,Known botnet activity,2025-11-06
+acc_567152,account,Chargeback abuse,2025-11-02
+66.116.110.52,ip,Chargeback abuse,2025-11-09
+dev_663398,device,Previous fraud attempt,2025-09-23
+25.157.197.120,ip,Chargeback abuse,2025-10-25
+51.13.173.31,ip,Suspicious login pattern,2025-12-08
+71.104.166.78,ip,Previous fraud attempt,2025-11-28
+acc_897131,account,Chargeback abuse,2025-11-11
+92.214.168.241,ip,Known botnet activity,2025-10-11
+dev_137233,device,Previous fraud attempt,2025-10-18
+acc_92410,account,Previous fraud attempt,2025-11-01
+acc_351645,account,Previous fraud attempt,2025-10-11
+dev_919318,device,Known botnet activity,2025-10-26
+acc_520608,account,Suspicious login pattern,2025-11-10
+dev_734698,device,Chargeback abuse,2025-10-29
+acc_942280,account,Known botnet activity,2025-09-02
+dev_72770,device,Previous fraud attempt,2025-12-18
+acc_137597,account,Suspicious login pattern,2025-12-03
+dev_46786,device,Suspicious login pattern,2025-11-26
+dev_865875,device,Suspicious login pattern,2025-09-08
+dev_431412,device,Chargeback abuse,2025-12-23
+dev_811282,device,Previous fraud attempt,2025-11-11
+acc_419255,account,Known botnet activity,2025-11-29
+acc_668243,account,Known botnet activity,2025-09-08
+90.206.57.93,ip,Previous fraud attempt,2025-12-08
+acc_840415,account,Chargeback abuse,2025-09-23
+185.0.152.126,ip,Known botnet activity,2025-12-14
+135.208.180.66,ip,Previous fraud attempt,2025-11-17
+39.197.92.49,ip,Chargeback abuse,2025-10-01
+acc_441628,account,Previous fraud attempt,2025-10-21
+acc_377143,account,Known botnet activity,2025-12-16
+63.102.19.76,ip,Suspicious login pattern,2025-09-02
+dev_484534,device,Suspicious login pattern,2025-09-03
+acc_422972,account,Known botnet activity,2025-12-19
+acc_495112,account,Known botnet activity,2025-11-13
+acc_845199,account,Previous fraud attempt,2025-08-30
+acc_644938,account,Previous fraud attempt,2025-12-08
+108.84.183.232,ip,Suspicious login pattern,2025-10-25
+dev_228012,device,Suspicious login pattern,2025-11-20
+dev_142727,device,Suspicious login pattern,2025-10-12
+dev_632017,device,Known botnet activity,2025-09-12
+166.15.184.205,ip,Known botnet activity,2025-09-12
+dev_409243,device,Previous fraud attempt,2025-11-07
+acc_910972,account,Chargeback abuse,2025-09-01
+82.91.55.12,ip,Previous fraud attempt,2025-09-17
+acc_437603,account,Suspicious login pattern,2025-09-26
+dev_829138,device,Known botnet activity,2025-11-01
+acc_740545,account,Known botnet activity,2025-11-18
+dev_525634,device,Suspicious login pattern,2025-12-22
+dev_860681,device,Known botnet activity,2025-10-20
+14.15.255.113,ip,Known botnet activity,2025-12-22
+35.120.154.124,ip,Suspicious login pattern,2025-11-04
+134.149.225.235,ip,Known botnet activity,2025-09-02
+acc_892979,account,Suspicious login pattern,2025-10-22
+acc_38668,account,Known botnet activity,2025-11-14
+dev_945035,device,Suspicious login pattern,2025-11-17
+dev_778581,device,Previous fraud attempt,2025-11-24
+acc_423975,account,Previous fraud attempt,2025-10-01
+22.6.119.183,ip,Previous fraud attempt,2025-12-20
+acc_742792,account,Known botnet activity,2025-09-12
+dev_576752,device,Chargeback abuse,2025-12-26
+152.98.102.218,ip,Known botnet activity,2025-10-28
+acc_263987,account,Suspicious login pattern,2025-12-25
+acc_334946,account,Suspicious login pattern,2025-09-15
+222.193.227.231,ip,Suspicious login pattern,2025-10-07
+dev_145181,device,Known botnet activity,2025-09-05
+30.110.5.197,ip,Chargeback abuse,2025-09-17
+dev_203893,device,Previous fraud attempt,2025-08-30
+108.177.16.246,ip,Previous fraud attempt,2025-09-12
+125.92.117.45,ip,Previous fraud attempt,2025-11-19
+dev_539584,device,Known botnet activity,2025-10-21
+23.166.20.37,ip,Previous fraud attempt,2025-11-07
+221.176.247.36,ip,Chargeback abuse,2025-12-12
+dev_962853,device,Previous fraud attempt,2025-09-26
+1.14.25.52,ip,Known botnet activity,2025-12-17
+acc_444993,account,Previous fraud attempt,2025-10-10
+acc_438835,account,Chargeback abuse,2025-12-22
+60.25.214.135,ip,Suspicious login pattern,2025-11-10
+22.209.139.23,ip,Known botnet activity,2025-12-05
+103.125.43.137,ip,Suspicious login pattern,2025-11-17
+5.103.21.15,ip,Chargeback abuse,2025-12-19
+acc_829095,account,Known botnet activity,2025-09-11
+dev_690263,device,Known botnet activity,2025-09-24
+acc_313263,account,Known botnet activity,2025-12-14
+137.166.103.34,ip,Chargeback abuse,2025-09-15
+acc_773565,account,Known botnet activity,2025-09-24
+acc_466515,account,Chargeback abuse,2025-09-03
+dev_50294,device,Chargeback abuse,2025-12-16
+dev_887567,device,Chargeback abuse,2025-12-09
+194.154.56.148,ip,Suspicious login pattern,2025-12-11
+dev_367035,device,Suspicious login pattern,2025-12-06
+173.44.104.44,ip,Suspicious login pattern,2025-09-06
+83.158.182.254,ip,Suspicious login pattern,2025-10-06
+2.18.122.113,ip,Suspicious login pattern,2025-11-14
+dev_975774,device,Chargeback abuse,2025-11-04
+25.56.81.155,ip,Known botnet activity,2025-09-29
+152.95.51.109,ip,Suspicious login pattern,2025-12-06
+acc_769076,account,Previous fraud attempt,2025-11-18
+dev_53533,device,Previous fraud attempt,2025-12-18
+acc_866819,account,Previous fraud attempt,2025-09-22
+220.101.56.106,ip,Chargeback abuse,2025-10-03
+acc_545856,account,Suspicious login pattern,2025-10-26
+100.221.238.90,ip,Previous fraud attempt,2025-09-11
+172.49.242.129,ip,Known botnet activity,2025-10-14
+66.103.173.88,ip,Chargeback abuse,2025-09-28
+dev_221014,device,Known botnet activity,2025-12-08
+acc_821361,account,Chargeback abuse,2025-09-22
+acc_772310,account,Previous fraud attempt,2025-12-24
+dev_250341,device,Previous fraud attempt,2025-12-12
+acc_390563,account,Known botnet activity,2025-09-25
+dev_502228,device,Chargeback abuse,2025-10-31
+dev_89785,device,Chargeback abuse,2025-10-19
+dev_840058,device,Suspicious login pattern,2025-12-24
+150.122.165.91,ip,Chargeback abuse,2025-09-27
+dev_149164,device,Suspicious login pattern,2025-11-28
+acc_408768,account,Known botnet activity,2025-12-11
+dev_173132,device,Chargeback abuse,2025-12-10
+dev_258491,device,Suspicious login pattern,2025-09-11
+dev_44957,device,Known botnet activity,2025-10-31
+199.79.255.72,ip,Suspicious login pattern,2025-12-22
+dev_300690,device,Chargeback abuse,2025-11-03
+112.55.119.156,ip,Previous fraud attempt,2025-10-31
+dev_864129,device,Previous fraud attempt,2025-09-29
+141.34.236.213,ip,Known botnet activity,2025-12-11
+dev_99663,device,Chargeback abuse,2025-09-28
+acc_844935,account,Chargeback abuse,2025-11-26
+acc_906899,account,Previous fraud attempt,2025-09-11
+dev_351506,device,Chargeback abuse,2025-10-21
+dev_892672,device,Suspicious login pattern,2025-11-21
+acc_97391,account,Chargeback abuse,2025-11-15
+dev_441955,device,Suspicious login pattern,2025-11-26
+acc_70499,account,Known botnet activity,2025-09-14
+dev_904431,device,Chargeback abuse,2025-10-29
+dev_708694,device,Known botnet activity,2025-11-02
+dev_588898,device,Known botnet activity,2025-12-22
+acc_934342,account,Chargeback abuse,2025-08-29
+acc_605590,account,Chargeback abuse,2025-10-01
+acc_982582,account,Known botnet activity,2025-10-06
+acc_55545,account,Previous fraud attempt,2025-09-04
+200.120.190.101,ip,Known botnet activity,2025-09-25
+dev_200033,device,Known botnet activity,2025-09-19
+dev_444614,device,Suspicious login pattern,2025-09-05
+acc_602982,account,Known botnet activity,2025-09-12
+dev_908279,device,Chargeback abuse,2025-10-18
+138.92.47.224,ip,Previous fraud attempt,2025-11-02
+dev_999161,device,Chargeback abuse,2025-09-18
+acc_79154,account,Previous fraud attempt,2025-11-27
+acc_94337,account,Chargeback abuse,2025-12-16
+dev_708940,device,Suspicious login pattern,2025-12-10
+96.135.201.170,ip,Known botnet activity,2025-12-07
+195.105.179.49,ip,Previous fraud attempt,2025-11-05
+acc_949237,account,Previous fraud attempt,2025-10-24
+71.116.200.110,ip,Previous fraud attempt,2025-09-15
+68.173.2.78,ip,Suspicious login pattern,2025-10-01
+52.215.206.159,ip,Suspicious login pattern,2025-09-16
+223.135.76.30,ip,Suspicious login pattern,2025-11-25
+dev_541233,device,Suspicious login pattern,2025-10-24
+acc_498051,account,Previous fraud attempt,2025-08-31
+172.164.45.137,ip,Known botnet activity,2025-09-12
+207.152.141.163,ip,Suspicious login pattern,2025-12-09
+acc_514054,account,Known botnet activity,2025-12-09
+208.138.71.195,ip,Suspicious login pattern,2025-10-12
+dev_230314,device,Previous fraud attempt,2025-09-18
+dev_264112,device,Known botnet activity,2025-09-13
+acc_672924,account,Previous fraud attempt,2025-09-11
+168.47.124.96,ip,Known botnet activity,2025-12-09
+acc_91985,account,Chargeback abuse,2025-09-16
+acc_865,account,Chargeback abuse,2025-09-16
+acc_834068,account,Known botnet activity,2025-12-01
+dev_655393,device,Previous fraud attempt,2025-11-12
+158.254.11.36,ip,Suspicious login pattern,2025-12-26
+dev_65251,device,Previous fraud attempt,2025-10-23
+157.201.75.165,ip,Previous fraud attempt,2025-09-26
+acc_18500,account,Chargeback abuse,2025-12-06
+dev_815123,device,Known botnet activity,2025-12-23
+acc_365008,account,Known botnet activity,2025-11-01
+43.122.97.23,ip,Suspicious login pattern,2025-09-23
+dev_957559,device,Known botnet activity,2025-09-11
+dev_971250,device,Suspicious login pattern,2025-09-20
+dev_115174,device,Known botnet activity,2025-09-17
+dev_267866,device,Suspicious login pattern,2025-09-29
+dev_286596,device,Suspicious login pattern,2025-09-14
+177.44.131.230,ip,Suspicious login pattern,2025-12-15
+191.31.226.2,ip,Previous fraud attempt,2025-11-24
+93.15.186.114,ip,Chargeback abuse,2025-09-03
+23.32.70.198,ip,Known botnet activity,2025-12-12
+103.126.178.52,ip,Previous fraud attempt,2025-10-11
+acc_634072,account,Chargeback abuse,2025-11-18
+acc_971145,account,Chargeback abuse,2025-11-06
+acc_847663,account,Previous fraud attempt,2025-09-08
+119.118.49.12,ip,Previous fraud attempt,2025-10-01
+35.134.78.126,ip,Chargeback abuse,2025-11-25
+acc_429797,account,Chargeback abuse,2025-10-02
+5.96.76.141,ip,Chargeback abuse,2025-09-26
+acc_160241,account,Known botnet activity,2025-11-09
+79.59.14.147,ip,Known botnet activity,2025-09-29
+acc_427478,account,Previous fraud attempt,2025-09-11
+acc_747525,account,Chargeback abuse,2025-11-04
+dev_886365,device,Chargeback abuse,2025-09-24
+dev_34807,device,Suspicious login pattern,2025-11-18
+100.147.167.255,ip,Chargeback abuse,2025-09-09
+214.143.88.231,ip,Suspicious login pattern,2025-11-06
+164.112.128.39,ip,Known botnet activity,2025-10-20
+176.188.187.191,ip,Previous fraud attempt,2025-12-06
+69.61.120.91,ip,Known botnet activity,2025-11-27
+dev_84539,device,Chargeback abuse,2025-10-11
+acc_788126,account,Known botnet activity,2025-10-25
+112.237.253.214,ip,Previous fraud attempt,2025-11-05
+acc_781663,account,Known botnet activity,2025-11-19
+174.66.223.234,ip,Known botnet activity,2025-10-05
+178.126.172.4,ip,Previous fraud attempt,2025-11-01
+dev_390546,device,Suspicious login pattern,2025-12-20
+acc_258570,account,Suspicious login pattern,2025-09-21
+dev_228357,device,Suspicious login pattern,2025-11-01
+222.0.150.18,ip,Previous fraud attempt,2025-09-23
+137.93.222.124,ip,Chargeback abuse,2025-10-04
+dev_757767,device,Chargeback abuse,2025-11-21
+acc_455209,account,Known botnet activity,2025-10-21
+acc_798039,account,Chargeback abuse,2025-11-24
+dev_945254,device,Suspicious login pattern,2025-09-16
+dev_276943,device,Chargeback abuse,2025-10-02
+acc_85566,account,Suspicious login pattern,2025-09-17
+acc_777879,account,Known botnet activity,2025-10-29
+126.212.132.107,ip,Chargeback abuse,2025-09-26
+41.67.44.109,ip,Previous fraud attempt,2025-09-01
+acc_789469,account,Suspicious login pattern,2025-12-18
+135.72.91.142,ip,Chargeback abuse,2025-10-30
+acc_762795,account,Previous fraud attempt,2025-09-06
+dev_148692,device,Suspicious login pattern,2025-11-07
+dev_949238,device,Known botnet activity,2025-12-23
+92.232.21.239,ip,Previous fraud attempt,2025-10-07
+acc_833592,account,Known botnet activity,2025-11-07
+6.119.104.9,ip,Known botnet activity,2025-12-04
+33.88.69.191,ip,Previous fraud attempt,2025-12-07
+10.178.246.212,ip,Chargeback abuse,2025-10-17
+dev_441317,device,Previous fraud attempt,2025-10-09
+acc_851281,account,Chargeback abuse,2025-09-21
+acc_797738,account,Previous fraud attempt,2025-10-21
+acc_229273,account,Known botnet activity,2025-10-17
+181.101.177.198,ip,Known botnet activity,2025-12-25
+98.121.248.129,ip,Known botnet activity,2025-10-28
+acc_563752,account,Previous fraud attempt,2025-09-08
+196.98.234.187,ip,Suspicious login pattern,2025-10-22
+acc_713729,account,Previous fraud attempt,2025-11-13
+86.85.234.85,ip,Chargeback abuse,2025-09-08
+dev_334708,device,Known botnet activity,2025-12-24
+154.134.181.235,ip,Previous fraud attempt,2025-10-17
+acc_847903,account,Previous fraud attempt,2025-11-02
+acc_627482,account,Chargeback abuse,2025-09-03
+83.235.64.117,ip,Chargeback abuse,2025-09-09
+72.158.145.219,ip,Known botnet activity,2025-11-22
+92.180.75.254,ip,Known botnet activity,2025-10-29
+acc_394063,account,Known botnet activity,2025-09-08
+130.156.113.65,ip,Suspicious login pattern,2025-11-18
+60.182.6.79,ip,Previous fraud attempt,2025-10-16
+dev_842463,device,Suspicious login pattern,2025-10-29
+acc_436595,account,Chargeback abuse,2025-11-06
+dev_494298,device,Known botnet activity,2025-09-07
+dev_104380,device,Previous fraud attempt,2025-11-16
+32.191.202.111,ip,Suspicious login pattern,2025-11-25
+acc_996121,account,Chargeback abuse,2025-10-06
+dev_533838,device,Chargeback abuse,2025-12-01
+dev_760528,device,Previous fraud attempt,2025-10-25
+acc_401529,account,Chargeback abuse,2025-09-14
+144.168.99.144,ip,Known botnet activity,2025-12-17
+dev_697208,device,Known botnet activity,2025-11-17
+137.75.162.130,ip,Suspicious login pattern,2025-10-11
+122.205.140.155,ip,Suspicious login pattern,2025-12-26
+dev_175347,device,Chargeback abuse,2025-10-13
+131.244.242.34,ip,Known botnet activity,2025-11-10
+dev_418360,device,Chargeback abuse,2025-11-08
+20.11.211.151,ip,Chargeback abuse,2025-09-16
+52.90.150.72,ip,Suspicious login pattern,2025-12-12
+84.210.55.246,ip,Suspicious login pattern,2025-09-03
+171.151.197.79,ip,Suspicious login pattern,2025-11-29
+acc_878764,account,Known botnet activity,2025-10-04
+acc_344134,account,Chargeback abuse,2025-09-24
+81.106.142.230,ip,Chargeback abuse,2025-10-28
+acc_301793,account,Suspicious login pattern,2025-10-01
+dev_511622,device,Known botnet activity,2025-11-17
+acc_323183,account,Known botnet activity,2025-09-01
+118.247.93.28,ip,Known botnet activity,2025-11-07
+dev_962592,device,Previous fraud attempt,2025-10-23
+dev_281111,device,Previous fraud attempt,2025-10-28
+dev_277138,device,Known botnet activity,2025-12-22
+140.161.229.123,ip,Suspicious login pattern,2025-10-24
+212.53.57.137,ip,Chargeback abuse,2025-10-03
+acc_976362,account,Known botnet activity,2025-12-03
+acc_347841,account,Suspicious login pattern,2025-12-25
+acc_781464,account,Previous fraud attempt,2025-11-24
+146.71.45.104,ip,Known botnet activity,2025-09-17
+26.185.198.2,ip,Chargeback abuse,2025-12-01
+176.47.159.236,ip,Chargeback abuse,2025-10-15
+dev_686964,device,Suspicious login pattern,2025-12-14
+acc_936715,account,Known botnet activity,2025-12-24
+194.219.198.41,ip,Previous fraud attempt,2025-10-07
+acc_227317,account,Chargeback abuse,2025-10-18
+dev_751118,device,Known botnet activity,2025-12-01
+34.172.42.147,ip,Known botnet activity,2025-12-04
+17.54.117.29,ip,Chargeback abuse,2025-09-02
+acc_304958,account,Chargeback abuse,2025-10-20
+dev_248464,device,Previous fraud attempt,2025-09-24
+30.187.159.44,ip,Chargeback abuse,2025-11-01
+dev_430793,device,Previous fraud attempt,2025-10-03
+40.137.142.86,ip,Previous fraud attempt,2025-09-24
+acc_635185,account,Suspicious login pattern,2025-09-08
+dev_26761,device,Chargeback abuse,2025-12-21
+7.250.58.97,ip,Previous fraud attempt,2025-12-19
+dev_455624,device,Previous fraud attempt,2025-11-23
+dev_882279,device,Suspicious login pattern,2025-12-06
+163.188.107.48,ip,Known botnet activity,2025-08-30
+163.116.209.65,ip,Suspicious login pattern,2025-10-31
+dev_424474,device,Known botnet activity,2025-12-08
+48.190.33.249,ip,Suspicious login pattern,2025-10-17
+dev_479028,device,Previous fraud attempt,2025-08-30
+acc_953619,account,Known botnet activity,2025-12-12
+acc_108059,account,Chargeback abuse,2025-11-08
+147.204.197.178,ip,Suspicious login pattern,2025-11-05
+dev_37276,device,Suspicious login pattern,2025-08-30
+114.163.252.247,ip,Chargeback abuse,2025-11-02
+acc_418807,account,Known botnet activity,2025-10-08
+acc_273861,account,Chargeback abuse,2025-12-12
+11.156.14.175,ip,Previous fraud attempt,2025-11-12
+90.130.215.239,ip,Chargeback abuse,2025-11-20
+dev_970968,device,Known botnet activity,2025-11-07
+acc_334573,account,Suspicious login pattern,2025-12-11
+dev_635027,device,Chargeback abuse,2025-11-20
+acc_356336,account,Suspicious login pattern,2025-09-26
+dev_580168,device,Suspicious login pattern,2025-10-28
+acc_736890,account,Suspicious login pattern,2025-10-25
+19.215.41.212,ip,Chargeback abuse,2025-12-13
+dev_157070,device,Previous fraud attempt,2025-11-16
+acc_639711,account,Suspicious login pattern,2025-09-17
+38.125.245.186,ip,Chargeback abuse,2025-11-15
+acc_94068,account,Previous fraud attempt,2025-11-17
+93.236.158.132,ip,Chargeback abuse,2025-10-05
+dev_475546,device,Previous fraud attempt,2025-08-29
+130.126.247.241,ip,Previous fraud attempt,2025-11-30
+dev_566354,device,Known botnet activity,2025-12-07
+189.157.62.198,ip,Known botnet activity,2025-10-06
+acc_207027,account,Previous fraud attempt,2025-09-25
+200.254.164.9,ip,Suspicious login pattern,2025-12-24
+150.75.28.170,ip,Chargeback abuse,2025-12-14
+acc_590928,account,Previous fraud attempt,2025-10-30
+140.227.173.202,ip,Suspicious login pattern,2025-11-25
+189.209.57.92,ip,Previous fraud attempt,2025-10-26
+210.128.36.36,ip,Previous fraud attempt,2025-08-30
+3.66.216.127,ip,Known botnet activity,2025-10-12
+acc_966525,account,Known botnet activity,2025-09-24
+157.188.195.234,ip,Known botnet activity,2025-10-24
+acc_871333,account,Chargeback abuse,2025-10-21
+dev_194395,device,Known botnet activity,2025-09-01
+acc_104908,account,Known botnet activity,2025-11-28
+dev_975606,device,Previous fraud attempt,2025-10-01
+80.10.219.197,ip,Previous fraud attempt,2025-12-13
+dev_48164,device,Suspicious login pattern,2025-09-13
+dev_581485,device,Previous fraud attempt,2025-12-19
+122.101.131.30,ip,Previous fraud attempt,2025-08-30
+dev_647514,device,Chargeback abuse,2025-12-20
+91.97.225.142,ip,Previous fraud attempt,2025-12-09
+acc_636490,account,Known botnet activity,2025-09-08
+77.90.168.132,ip,Known botnet activity,2025-12-25
+105.73.54.231,ip,Suspicious login pattern,2025-09-11
+acc_549310,account,Chargeback abuse,2025-11-16
+188.28.185.173,ip,Suspicious login pattern,2025-12-07
+69.127.235.22,ip,Chargeback abuse,2025-11-25
+33.247.77.138,ip,Previous fraud attempt,2025-11-14
+168.20.2.5,ip,Previous fraud attempt,2025-10-19
+acc_832301,account,Suspicious login pattern,2025-09-07
+53.12.142.185,ip,Previous fraud attempt,2025-09-02
+dev_437853,device,Suspicious login pattern,2025-10-30
+94.136.170.227,ip,Suspicious login pattern,2025-11-18
+acc_901412,account,Previous fraud attempt,2025-11-10
+dev_428116,device,Known botnet activity,2025-12-03
+105.199.43.7,ip,Chargeback abuse,2025-09-12
+dev_990158,device,Known botnet activity,2025-09-13
+dev_468379,device,Previous fraud attempt,2025-10-02
+dev_216886,device,Chargeback abuse,2025-12-21
+acc_981741,account,Suspicious login pattern,2025-09-14
+dev_271085,device,Suspicious login pattern,2025-09-21
+dev_93517,device,Known botnet activity,2025-12-05
+119.20.149.12,ip,Known botnet activity,2025-09-29
+dev_799163,device,Known botnet activity,2025-11-10
+dev_967115,device,Known botnet activity,2025-12-12
+165.199.119.165,ip,Previous fraud attempt,2025-10-13
+92.13.161.249,ip,Suspicious login pattern,2025-12-22
+dev_779190,device,Previous fraud attempt,2025-09-03
+102.207.64.17,ip,Known botnet activity,2025-09-10
+acc_521019,account,Suspicious login pattern,2025-11-04
+acc_533605,account,Known botnet activity,2025-10-02
+73.243.191.10,ip,Suspicious login pattern,2025-10-09
+25.174.245.145,ip,Chargeback abuse,2025-12-19
+12.243.193.132,ip,Known botnet activity,2025-10-25
+dev_362035,device,Known botnet activity,2025-11-19
+121.26.97.30,ip,Previous fraud attempt,2025-12-20
+19.1.143.105,ip,Suspicious login pattern,2025-09-02
+acc_422469,account,Suspicious login pattern,2025-09-27
+dev_748885,device,Known botnet activity,2025-11-07
+dev_978823,device,Previous fraud attempt,2025-10-14
+acc_261348,account,Known botnet activity,2025-09-27
+acc_869079,account,Chargeback abuse,2025-10-31
+34.115.54.244,ip,Known botnet activity,2025-09-12
+26.98.220.29,ip,Known botnet activity,2025-10-22
+acc_773321,account,Suspicious login pattern,2025-11-03
+acc_747643,account,Previous fraud attempt,2025-08-30
+99.9.135.217,ip,Suspicious login pattern,2025-08-31
+acc_21276,account,Previous fraud attempt,2025-10-20
+dev_607077,device,Chargeback abuse,2025-11-05
+60.69.8.27,ip,Chargeback abuse,2025-10-12
+dev_675658,device,Known botnet activity,2025-12-12
+dev_197200,device,Suspicious login pattern,2025-11-20
+acc_928438,account,Suspicious login pattern,2025-09-18
+79.163.101.16,ip,Chargeback abuse,2025-10-21
+dev_300516,device,Previous fraud attempt,2025-09-19
+acc_861176,account,Known botnet activity,2025-10-29
+acc_705937,account,Previous fraud attempt,2025-12-03
+acc_419302,account,Known botnet activity,2025-11-27
+94.191.197.55,ip,Known botnet activity,2025-11-09
+dev_334913,device,Previous fraud attempt,2025-10-13
+41.159.226.89,ip,Known botnet activity,2025-10-22
+dev_724518,device,Chargeback abuse,2025-10-08
+acc_121225,account,Suspicious login pattern,2025-10-20
+dev_133568,device,Chargeback abuse,2025-09-16
+acc_111353,account,Chargeback abuse,2025-10-30
+acc_641803,account,Previous fraud attempt,2025-12-06
+dev_951834,device,Suspicious login pattern,2025-10-14
+110.93.153.7,ip,Previous fraud attempt,2025-08-30
+159.245.47.139,ip,Suspicious login pattern,2025-12-02
+acc_75140,account,Chargeback abuse,2025-12-22
+acc_712337,account,Chargeback abuse,2025-12-21
+acc_105033,account,Suspicious login pattern,2025-10-19
+dev_748104,device,Suspicious login pattern,2025-09-22
+dev_137022,device,Chargeback abuse,2025-11-07
+acc_65189,account,Chargeback abuse,2025-11-30
+202.247.86.75,ip,Known botnet activity,2025-11-13
+dev_195710,device,Chargeback abuse,2025-09-07
+acc_676521,account,Suspicious login pattern,2025-11-15
+218.189.133.111,ip,Known botnet activity,2025-11-08
+dev_409691,device,Known botnet activity,2025-09-19
+dev_89993,device,Suspicious login pattern,2025-12-11
+dev_515182,device,Chargeback abuse,2025-08-29
+dev_878000,device,Previous fraud attempt,2025-10-06
+53.25.16.205,ip,Previous fraud attempt,2025-10-03
+182.107.74.16,ip,Known botnet activity,2025-10-25
+acc_231337,account,Previous fraud attempt,2025-09-16
+58.116.143.48,ip,Previous fraud attempt,2025-09-08
+acc_29063,account,Suspicious login pattern,2025-10-20
+156.109.27.105,ip,Known botnet activity,2025-09-19
+acc_933892,account,Chargeback abuse,2025-09-19
+acc_450487,account,Previous fraud attempt,2025-08-31
+dev_631609,device,Chargeback abuse,2025-12-18
+dev_86068,device,Previous fraud attempt,2025-11-03
+acc_294672,account,Suspicious login pattern,2025-12-14
+103.146.225.212,ip,Chargeback abuse,2025-10-10
+31.84.99.120,ip,Previous fraud attempt,2025-11-26
+dev_905500,device,Suspicious login pattern,2025-09-28
+183.138.11.231,ip,Known botnet activity,2025-08-29
+acc_512092,account,Known botnet activity,2025-11-08
+acc_753292,account,Suspicious login pattern,2025-09-23
+acc_167049,account,Previous fraud attempt,2025-10-25
+acc_615396,account,Previous fraud attempt,2025-10-26
+137.151.179.174,ip,Chargeback abuse,2025-11-15
+dev_770774,device,Suspicious login pattern,2025-10-10
+dev_810266,device,Known botnet activity,2025-10-22
+43.181.149.32,ip,Chargeback abuse,2025-12-10
+dev_701414,device,Chargeback abuse,2025-12-03
+60.254.0.90,ip,Known botnet activity,2025-10-24
+dev_253874,device,Known botnet activity,2025-11-11
+51.246.75.70,ip,Chargeback abuse,2025-08-31
+115.133.100.179,ip,Known botnet activity,2025-09-29
+dev_254899,device,Suspicious login pattern,2025-10-21
+173.234.9.141,ip,Suspicious login pattern,2025-12-01
+acc_522309,account,Previous fraud attempt,2025-10-12
+dev_309755,device,Suspicious login pattern,2025-10-03
+dev_593283,device,Known botnet activity,2025-09-10
+acc_269277,account,Suspicious login pattern,2025-10-03
+acc_576420,account,Known botnet activity,2025-11-28
+21.246.93.163,ip,Chargeback abuse,2025-12-09
+dev_651769,device,Previous fraud attempt,2025-08-30
+acc_208936,account,Known botnet activity,2025-10-31
+25.9.170.40,ip,Suspicious login pattern,2025-10-29
+acc_778200,account,Previous fraud attempt,2025-10-08
+acc_360005,account,Suspicious login pattern,2025-10-20
+acc_897678,account,Known botnet activity,2025-09-29
+acc_725756,account,Chargeback abuse,2025-09-15
+dev_442214,device,Chargeback abuse,2025-10-24
+55.147.152.46,ip,Known botnet activity,2025-11-20
+71.3.152.206,ip,Known botnet activity,2025-09-03
+186.196.38.90,ip,Suspicious login pattern,2025-08-29
+28.191.86.143,ip,Known botnet activity,2025-10-25
+dev_675705,device,Known botnet activity,2025-10-07
+dev_61200,device,Suspicious login pattern,2025-09-28
+acc_898148,account,Previous fraud attempt,2025-11-04
+dev_214573,device,Suspicious login pattern,2025-09-08
+151.72.131.61,ip,Chargeback abuse,2025-12-25
+31.61.123.90,ip,Suspicious login pattern,2025-11-13
+dev_146967,device,Previous fraud attempt,2025-11-22
+acc_499751,account,Previous fraud attempt,2025-10-18
+93.12.22.226,ip,Chargeback abuse,2025-10-26
+91.52.49.28,ip,Suspicious login pattern,2025-11-02
+dev_72085,device,Chargeback abuse,2025-10-08
+dev_485160,device,Suspicious login pattern,2025-10-10
+acc_318572,account,Previous fraud attempt,2025-12-03
+acc_684619,account,Previous fraud attempt,2025-10-17
+dev_817902,device,Chargeback abuse,2025-09-05
+acc_6857,account,Suspicious login pattern,2025-10-03
+dev_449560,device,Suspicious login pattern,2025-12-01
+dev_446642,device,Known botnet activity,2025-11-20
+acc_286758,account,Suspicious login pattern,2025-12-23
+159.215.169.23,ip,Previous fraud attempt,2025-11-30
+dev_941483,device,Chargeback abuse,2025-11-06
+58.108.216.141,ip,Suspicious login pattern,2025-09-16
+64.113.246.200,ip,Previous fraud attempt,2025-11-02
+141.159.108.8,ip,Chargeback abuse,2025-12-10
+dev_970649,device,Previous fraud attempt,2025-11-21
+dev_981301,device,Previous fraud attempt,2025-11-24
+65.43.119.95,ip,Previous fraud attempt,2025-12-24
+76.168.216.51,ip,Suspicious login pattern,2025-11-26
+dev_211572,device,Suspicious login pattern,2025-09-11
+dev_112864,device,Suspicious login pattern,2025-11-10
+56.126.68.155,ip,Chargeback abuse,2025-12-16
+dev_769284,device,Suspicious login pattern,2025-09-10
+dev_689031,device,Suspicious login pattern,2025-08-31
+acc_493917,account,Known botnet activity,2025-09-13
+dev_511943,device,Known botnet activity,2025-09-26
+dev_506988,device,Suspicious login pattern,2025-12-17
+164.140.11.33,ip,Suspicious login pattern,2025-10-14
+acc_869249,account,Chargeback abuse,2025-11-15
+acc_178694,account,Known botnet activity,2025-10-10
+86.63.113.249,ip,Previous fraud attempt,2025-11-04
+acc_934034,account,Known botnet activity,2025-09-11
+acc_52686,account,Known botnet activity,2025-10-21
+dev_249833,device,Previous fraud attempt,2025-12-20
+acc_545497,account,Suspicious login pattern,2025-10-18
+dev_157248,device,Known botnet activity,2025-10-26
+160.13.145.87,ip,Previous fraud attempt,2025-09-04
+dev_755685,device,Chargeback abuse,2025-10-25
+dev_220647,device,Previous fraud attempt,2025-12-08
+dev_636854,device,Previous fraud attempt,2025-09-27
+dev_263965,device,Suspicious login pattern,2025-11-08
+191.238.157.47,ip,Suspicious login pattern,2025-12-25
+dev_430532,device,Suspicious login pattern,2025-09-19
+dev_305144,device,Known botnet activity,2025-12-14
+dev_231144,device,Previous fraud attempt,2025-09-07
+acc_515149,account,Previous fraud attempt,2025-09-20
+dev_140775,device,Known botnet activity,2025-10-24
+acc_899872,account,Previous fraud attempt,2025-10-26
+dev_239182,device,Suspicious login pattern,2025-09-07
+dev_410119,device,Known botnet activity,2025-09-17
+173.98.99.1,ip,Suspicious login pattern,2025-10-07
+acc_51608,account,Suspicious login pattern,2025-10-15
+acc_580001,account,Chargeback abuse,2025-11-15
+dev_130013,device,Suspicious login pattern,2025-12-03
+208.38.53.203,ip,Chargeback abuse,2025-11-12
+acc_731749,account,Suspicious login pattern,2025-12-25
+dev_39909,device,Known botnet activity,2025-09-25
+acc_832580,account,Chargeback abuse,2025-09-23
+148.177.141.41,ip,Previous fraud attempt,2025-09-17
+acc_258834,account,Suspicious login pattern,2025-09-19
+dev_851,device,Previous fraud attempt,2025-11-04
+dev_473688,device,Previous fraud attempt,2025-11-07
+147.205.65.172,ip,Previous fraud attempt,2025-11-17
+113.126.54.67,ip,Chargeback abuse,2025-09-15
+dev_956618,device,Suspicious login pattern,2025-10-23
+85.11.15.71,ip,Chargeback abuse,2025-11-01
+dev_161746,device,Known botnet activity,2025-11-12
+acc_302615,account,Previous fraud attempt,2025-12-03
+acc_285999,account,Chargeback abuse,2025-09-07
+acc_5708,account,Known botnet activity,2025-12-26
+acc_226871,account,Known botnet activity,2025-12-13
+8.52.158.82,ip,Chargeback abuse,2025-10-16
+acc_641035,account,Suspicious login pattern,2025-12-05
+acc_163348,account,Known botnet activity,2025-09-01
+145.215.100.249,ip,Chargeback abuse,2025-11-23
+44.207.153.203,ip,Known botnet activity,2025-11-11
+220.111.94.30,ip,Suspicious login pattern,2025-10-19
+68.31.28.82,ip,Suspicious login pattern,2025-10-27
+dev_229349,device,Known botnet activity,2025-12-03
+acc_752748,account,Suspicious login pattern,2025-12-20
+171.11.91.215,ip,Previous fraud attempt,2025-10-18
+191.69.37.211,ip,Known botnet activity,2025-09-04
+acc_392259,account,Known botnet activity,2025-11-25
+dev_776229,device,Suspicious login pattern,2025-10-22
+132.138.148.161,ip,Previous fraud attempt,2025-11-22
+acc_15904,account,Suspicious login pattern,2025-09-04
+dev_124885,device,Suspicious login pattern,2025-11-14
+190.215.176.118,ip,Known botnet activity,2025-10-11
+dev_724128,device,Chargeback abuse,2025-11-12
+45.172.2.12,ip,Known botnet activity,2025-11-22
+acc_701268,account,Suspicious login pattern,2025-11-09
+acc_163283,account,Chargeback abuse,2025-10-12
+acc_986427,account,Previous fraud attempt,2025-09-11
+125.209.208.122,ip,Previous fraud attempt,2025-09-26
+dev_132181,device,Previous fraud attempt,2025-10-06
+dev_765315,device,Chargeback abuse,2025-12-05
+acc_13414,account,Previous fraud attempt,2025-10-25
+dev_161586,device,Suspicious login pattern,2025-10-15
+79.89.235.88,ip,Suspicious login pattern,2025-12-03
+dev_216847,device,Previous fraud attempt,2025-10-12
+dev_396598,device,Previous fraud attempt,2025-10-18
+dev_389581,device,Known botnet activity,2025-09-09
+dev_130308,device,Suspicious login pattern,2025-11-09
+dev_911413,device,Suspicious login pattern,2025-10-22
+dev_181341,device,Previous fraud attempt,2025-11-28
+98.93.43.115,ip,Known botnet activity,2025-09-20
+dev_558467,device,Previous fraud attempt,2025-10-18
+dev_499189,device,Chargeback abuse,2025-11-05
+dev_949099,device,Known botnet activity,2025-09-07
+acc_107295,account,Known botnet activity,2025-12-22
+dev_518275,device,Suspicious login pattern,2025-09-07
+acc_409864,account,Chargeback abuse,2025-11-18
+159.175.234.41,ip,Suspicious login pattern,2025-12-08
+dev_535847,device,Previous fraud attempt,2025-12-25
+128.136.109.32,ip,Known botnet activity,2025-11-23
+acc_782707,account,Chargeback abuse,2025-09-16
+dev_383415,device,Known botnet activity,2025-09-08
+dev_124991,device,Previous fraud attempt,2025-11-19
+acc_623814,account,Chargeback abuse,2025-10-22
+187.239.131.34,ip,Chargeback abuse,2025-09-26
+acc_413126,account,Suspicious login pattern,2025-11-04
+acc_165816,account,Previous fraud attempt,2025-11-14
+acc_10993,account,Previous fraud attempt,2025-11-10
+dev_993563,device,Previous fraud attempt,2025-10-26
+dev_149718,device,Suspicious login pattern,2025-11-17
+acc_994294,account,Suspicious login pattern,2025-10-30
+57.139.182.91,ip,Suspicious login pattern,2025-12-05
+dev_806636,device,Known botnet activity,2025-10-15
+dev_563654,device,Suspicious login pattern,2025-09-18
+dev_951994,device,Suspicious login pattern,2025-10-28
+acc_288881,account,Known botnet activity,2025-11-05
+acc_40963,account,Chargeback abuse,2025-09-13
+acc_380365,account,Chargeback abuse,2025-09-02
+acc_94676,account,Chargeback abuse,2025-09-18
+94.242.224.169,ip,Known botnet activity,2025-10-26
+136.58.197.72,ip,Previous fraud attempt,2025-09-11
+215.125.247.209,ip,Chargeback abuse,2025-10-05
+dev_654640,device,Known botnet activity,2025-10-19
+206.168.104.152,ip,Previous fraud attempt,2025-12-20
+dev_85308,device,Suspicious login pattern,2025-12-19
+219.90.214.66,ip,Chargeback abuse,2025-09-25
+acc_828447,account,Previous fraud attempt,2025-10-25
+acc_16587,account,Chargeback abuse,2025-10-16
+dev_238553,device,Suspicious login pattern,2025-09-17
+acc_524085,account,Suspicious login pattern,2025-10-22
+acc_196023,account,Known botnet activity,2025-11-11
+dev_867084,device,Previous fraud attempt,2025-10-10
+172.221.250.125,ip,Chargeback abuse,2025-11-12
+47.101.219.99,ip,Suspicious login pattern,2025-09-09
+dev_617946,device,Suspicious login pattern,2025-11-24
+dev_544185,device,Previous fraud attempt,2025-11-11
+54.94.224.100,ip,Previous fraud attempt,2025-12-14
+122.155.115.94,ip,Known botnet activity,2025-11-28
+acc_922820,account,Chargeback abuse,2025-09-07
+47.174.151.195,ip,Suspicious login pattern,2025-09-28
+acc_70346,account,Suspicious login pattern,2025-10-22
+dev_586258,device,Suspicious login pattern,2025-10-10
+acc_850297,account,Suspicious login pattern,2025-09-14
+dev_774832,device,Chargeback abuse,2025-11-18
+acc_937600,account,Known botnet activity,2025-10-07
+dev_561362,device,Previous fraud attempt,2025-09-02
+acc_678673,account,Suspicious login pattern,2025-09-09
+147.197.65.239,ip,Known botnet activity,2025-11-04
+dev_852323,device,Known botnet activity,2025-12-06
+11.106.69.187,ip,Previous fraud attempt,2025-11-28
+dev_100678,device,Previous fraud attempt,2025-11-11
+acc_292879,account,Suspicious login pattern,2025-11-29
+181.17.127.51,ip,Previous fraud attempt,2025-11-16
+acc_738219,account,Suspicious login pattern,2025-09-10
+211.204.66.89,ip,Chargeback abuse,2025-11-24
+acc_621940,account,Previous fraud attempt,2025-12-05
+acc_276017,account,Previous fraud attempt,2025-12-13
+acc_724669,account,Previous fraud attempt,2025-12-26
+dev_380643,device,Chargeback abuse,2025-11-02
+212.221.112.248,ip,Previous fraud attempt,2025-11-12
+dev_486753,device,Known botnet activity,2025-12-17
+acc_194386,account,Previous fraud attempt,2025-09-08
+203.246.157.105,ip,Suspicious login pattern,2025-11-09
+136.15.159.172,ip,Suspicious login pattern,2025-11-08
+dev_484692,device,Chargeback abuse,2025-12-07
+dev_279508,device,Known botnet activity,2025-09-18
+85.96.212.201,ip,Suspicious login pattern,2025-12-06
+acc_507379,account,Known botnet activity,2025-10-13
+3.125.22.123,ip,Chargeback abuse,2025-12-16
+acc_302078,account,Chargeback abuse,2025-11-06
+dev_841537,device,Known botnet activity,2025-11-23
+acc_850606,account,Previous fraud attempt,2025-12-26
+49.254.211.222,ip,Previous fraud attempt,2025-12-10
+acc_684624,account,Suspicious login pattern,2025-10-10
+4.176.91.77,ip,Chargeback abuse,2025-10-14
+acc_855999,account,Suspicious login pattern,2025-10-17
+146.33.130.224,ip,Suspicious login pattern,2025-12-18
+acc_580505,account,Chargeback abuse,2025-12-23
+acc_99920,account,Chargeback abuse,2025-12-24
+183.82.72.208,ip,Previous fraud attempt,2025-12-13
+acc_14858,account,Known botnet activity,2025-09-11
+dev_364970,device,Suspicious login pattern,2025-11-11
+88.242.14.250,ip,Chargeback abuse,2025-12-10
+acc_194818,account,Known botnet activity,2025-10-07
+acc_387331,account,Suspicious login pattern,2025-09-16
+dev_928422,device,Known botnet activity,2025-11-16
+dev_7548,device,Previous fraud attempt,2025-11-25
+acc_31440,account,Chargeback abuse,2025-12-18
+dev_509219,device,Known botnet activity,2025-10-11
+acc_432317,account,Suspicious login pattern,2025-10-16
+74.175.50.110,ip,Previous fraud attempt,2025-11-11
+acc_481722,account,Known botnet activity,2025-11-10
+90.141.57.166,ip,Suspicious login pattern,2025-11-18
+acc_715734,account,Suspicious login pattern,2025-10-11
+188.25.112.144,ip,Suspicious login pattern,2025-11-24
+117.245.210.12,ip,Known botnet activity,2025-12-15
+acc_384388,account,Suspicious login pattern,2025-10-01
+acc_650468,account,Known botnet activity,2025-11-20
+75.102.75.22,ip,Suspicious login pattern,2025-12-25
+acc_727350,account,Previous fraud attempt,2025-12-21
+dev_526173,device,Known botnet activity,2025-10-26
+86.253.102.236,ip,Known botnet activity,2025-11-11
+dev_266507,device,Known botnet activity,2025-12-03
+60.104.5.61,ip,Chargeback abuse,2025-12-25
+dev_634737,device,Suspicious login pattern,2025-09-07
+acc_735732,account,Known botnet activity,2025-09-01
+acc_456195,account,Suspicious login pattern,2025-12-20
+197.33.46.5,ip,Previous fraud attempt,2025-09-04
+acc_518773,account,Previous fraud attempt,2025-12-17
+dev_772940,device,Known botnet activity,2025-09-03
+acc_738015,account,Chargeback abuse,2025-12-07
+acc_791102,account,Chargeback abuse,2025-11-25
+41.66.207.16,ip,Known botnet activity,2025-11-02
+acc_445556,account,Known botnet activity,2025-11-20
+acc_55056,account,Chargeback abuse,2025-11-10
+acc_839134,account,Chargeback abuse,2025-10-02
+acc_493694,account,Chargeback abuse,2025-10-29
+119.102.43.159,ip,Chargeback abuse,2025-11-21
+dev_11780,device,Suspicious login pattern,2025-12-25
+165.250.170.228,ip,Chargeback abuse,2025-11-16
+dev_160827,device,Chargeback abuse,2025-10-08
+dev_24279,device,Previous fraud attempt,2025-12-24
+dev_16597,device,Known botnet activity,2025-12-14
+dev_600585,device,Known botnet activity,2025-09-10
+121.120.112.151,ip,Suspicious login pattern,2025-09-02
